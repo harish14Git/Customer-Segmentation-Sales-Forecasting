@@ -1,0 +1,972 @@
+Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Region,City,Category,Sub_Category,Quantity,Sales,Discount,Profit
+ORD-10695,2023-07-04,2023-07-09,Standard Class,CUST-1095,Januja Bora,Consumer,West,Surat,Technology,Copiers,7,2258.69,0.3,257.39
+ORD-10857,2024-03-16,2024-03-23,Same Day,CUST-1043,Tanay Khurana,Home Office,West,Pune,Furniture,Furnishings,1,402.65,0.15,31.86
+ORD-10704,2023-10-30,2023-11-04,Second Class,CUST-1057,Janaki Kuruvilla,Corporate,West,Ahmedabad,Office Supplies,Art,1,288.11,0.0,90.74
+ORD-10586,2024-08-05,2024-08-07,Same Day,CUST-1160,Faraj Apte,Corporate,North,Lucknow,Technology,Accessories,4,334.92,0.2,65.51
+ORD-10744,2022-03-27,2022-03-28,First Class,CUST-1025,Falguni Bajaj,Corporate,North,Delhi,Furniture,Bookcases,4,1063.76,0.0,73.45
+ORD-10837,2022-12-14,2022-12-17,Standard Class,CUST-1022,Chakradhar Balasubramanian,Consumer,West,Ahmedabad,Furniture,Furnishings,3,130.2,0.15,7.03
+ORD-10633,2022-09-22,2022-09-24,Same Day,CUST-1053,Jairaj Bhardwaj,Corporate,East,Guwahati,Technology,Phones,4,346.36,0.1,-17.02
+ORD-10996,2024-06-14,2024-06-19,Standard Class,CUST-1054,Krishna Batra,Home Office,South,Bengaluru,Technology,Machines,8,2001.2,0.3,17.85
+ORD-10466,2022-05-16,2022-05-18,Second Class,CUST-1137,Meera Kala,Home Office,North,Lucknow,Furniture,Bookcases,5,2109.8,0.0,722.88
+ORD-10979,2023-10-02,2023-10-09,First Class,CUST-1138,Harita Mani,Corporate,South,Bengaluru,Furniture,Furnishings,6,1309.92,0.2,-93.74
+ORD-10265,2023-01-19,2023-01-22,Second Class,CUST-1174,Triya Nayar,Home Office,West,Pune,Furniture,Bookcases,5,1142.75,0.0,-96.46
+ORD-10940,2022-02-01,2022-02-04,First Class,CUST-1097,Manya Trivedi,Corporate,West,Pune,Technology,Accessories,5,259.55,0.0,64.14
+ORD-10950,2024-08-25,2024-08-31,First Class,CUST-1057,Janaki Kuruvilla,Consumer,West,Mumbai,Technology,Phones,9,2384.64,0.0,50.39
+ORD-10605,2024-05-16,2024-05-22,Standard Class,CUST-1082,Bhavini Balay,Corporate,West,Surat,Technology,Accessories,10,1355.5,0.0,204.21
+ORD-10043,2024-04-29,2024-05-03,Same Day,CUST-1098,Upadhriti Saha,Corporate,South,Chennai,Technology,Accessories,6,1655.28,0.1,-107.23
+ORD-10111,2022-02-12,2022-02-15,First Class,CUST-1103,Isaiah Chawla,Consumer,West,Surat,Office Supplies,Binders,3,1207.95,0.15,109.91
+ORD-10362,2024-02-11,2024-02-17,Standard Class,CUST-1133,Vivaan Shere,Home Office,East,Patna,Technology,Machines,7,1323.0,0.2,321.97
+ORD-10009,2024-12-19,2024-12-22,Standard Class,CUST-1016,Jackson Kakar,Home Office,West,Surat,Office Supplies,Labels,9,3886.02,0.0,801.02
+ORD-10725,2023-09-25,2023-09-27,Second Class,CUST-1150,Aarav Buch,Corporate,North,Delhi,Furniture,Chairs,7,2667.35,0.15,-145.73
+ORD-10329,2022-12-03,2022-12-07,Standard Class,CUST-1133,Vivaan Shere,Corporate,East,Kolkata,Technology,Phones,3,1238.1,0.2,222.56
+ORD-10459,2023-07-17,2023-07-20,Standard Class,CUST-1016,Jackson Kakar,Consumer,East,Kolkata,Office Supplies,Paper,9,1914.66,0.0,408.06
+ORD-10997,2024-08-12,2024-08-19,Second Class,CUST-1111,Aahana Som,Corporate,East,Bhubaneswar,Furniture,Chairs,6,2201.76,0.0,391.12
+ORD-10242,2022-10-14,2022-10-16,First Class,CUST-1031,Falguni Baria,Home Office,West,Ahmedabad,Office Supplies,Art,5,1629.3,0.0,242.81
+ORD-10537,2022-05-15,2022-05-17,First Class,CUST-1136,Rachita Bala,Consumer,East,Bhubaneswar,Office Supplies,Labels,8,422.24,0.1,115.55
+ORD-10117,2024-10-23,2024-10-25,First Class,CUST-1146,Imaran Barad,Home Office,South,Coimbatore,Office Supplies,Labels,1,230.76,0.3,49.2
+ORD-10252,2023-04-05,2023-04-08,Standard Class,CUST-1098,Upadhriti Saha,Home Office,South,Coimbatore,Furniture,Chairs,4,855.88,0.2,30.11
+ORD-10780,2024-04-12,2024-04-19,Second Class,CUST-1109,Kashvi Kara,Consumer,South,Hyderabad,Office Supplies,Binders,6,2545.02,0.2,-130.79
+ORD-10278,2022-07-27,2022-08-03,Second Class,CUST-1105,Zehaan Dubey,Consumer,West,Surat,Office Supplies,Storage,8,3171.84,0.15,520.17
+ORD-10805,2023-07-23,2023-07-25,Second Class,CUST-1011,Laksh Gera,Consumer,South,Bengaluru,Office Supplies,Binders,5,2189.8,0.0,414.06
+ORD-10573,2022-06-06,2022-06-12,First Class,CUST-1154,Alka Dhingra,Home Office,East,Kolkata,Furniture,Bookcases,9,3474.99,0.3,266.87
+ORD-10338,2024-02-21,2024-02-25,Standard Class,CUST-1165,Upasna Kumer,Consumer,West,Mumbai,Furniture,Bookcases,7,3351.46,0.2,109.11
+ORD-10612,2024-11-07,2024-11-14,Standard Class,CUST-1023,Logan Dutta,Home Office,South,Bengaluru,Office Supplies,Paper,5,1429.95,0.2,187.1
+ORD-10253,2023-04-03,2023-04-10,Same Day,CUST-1095,Januja Bora,Corporate,North,Chandigarh,Technology,Phones,9,4418.01,0.1,-274.29
+ORD-10106,2022-06-23,2022-06-24,Standard Class,CUST-1087,,Corporate,South,Hyderabad,Office Supplies,Storage,3,261.39,0.15,-17.24
+ORD-10665,2022-03-27,2022-03-28,Second Class,CUST-1138,Harita Mani,Consumer,South,Coimbatore,Furniture,Furnishings,8,3847.6,0.15,98.64
+ORD-10856,2022-02-23,2022-02-25,First Class,CUST-1061,Tanveer Taneja,Corporate,North,Delhi,Office Supplies,Binders,6,2531.88,0.15,578.95
+ORD-10094,2023-03-01,2023-03-06,Second Class,CUST-1062,Zaitra Vala,Home Office,South,Chennai,Technology,Accessories,4,1633.6,0.0,78.17
+ORD-10908,2024-10-11,2024-10-13,First Class,CUST-1149,Ishanvi Varma,Home Office,North,Chandigarh,Technology,Accessories,4,1794.32,0.2,406.97
+ORD-10520,2022-08-29,2022-09-03,Second Class,CUST-1107,Rayaan Patel,Corporate,North,Chandigarh,Technology,Accessories,2,626.54,0.3,106.36
+ORD-10668,2024-07-16,2024-07-19,Same Day,CUST-1129,Jonathan Oza,Home Office,East,Bhubaneswar,Technology,Machines,4,1338.08,0.0,71.9
+ORD-10843,2022-03-20,2022-03-25,First Class,CUST-1179,,Home Office,West,Surat,Furniture,Bookcases,3,1424.34,0.0,267.91
+ORD-10229,2023-06-23,2023-06-26,Second Class,CUST-1167,Anirudh Parmar,Consumer,South,Coimbatore,Office Supplies,Binders,2,450.28,0.0,112.14
+ORD-10270,2023-12-22,2023-12-27,Same Day,CUST-1060,Jonathan Dugar,Home Office,East,Kolkata,Technology,Machines,10,796.3,0.0,220.19
+ORD-10031,2023-04-01,2023-04-03,Second Class,CUST-1040,,Consumer,North,Jaipur,Office Supplies,Binders,8,1450.64,0.3,261.89
+ORD-10551,2022-12-25,2022-12-30,Second Class,CUST-1001,Yochana Kalla,Consumer,West,Surat,Technology,Machines,8,2864.16,0.3,624.92
+ORD-10044,2022-01-13,2022-01-16,Same Day,CUST-1149,Ishanvi Varma,Home Office,North,Jaipur,Technology,Copiers,5,1896.0,0.3,399.8
+ORD-10921,2022-03-10,2022-03-17,Standard Class,CUST-1149,Ishanvi Varma,Corporate,North,Chandigarh,Technology,Phones,3,1343.13,0.0,333.73
+ORD-10639,2022-06-24,2022-06-27,Second Class,CUST-1062,Zaitra Vala,Consumer,West,Pune,Office Supplies,Storage,6,2162.7,0.1,121.24
+ORD-10935,2024-02-02,2024-02-08,Same Day,CUST-1059,Hiral Basak,Consumer,East,Kolkata,Technology,Accessories,3,82.74,0.0,17.73
+ORD-10576,2022-11-17,2022-11-22,Same Day,CUST-1028,Quincy Munshi,Home Office,West,Surat,Technology,Copiers,1,201.78,0.1,30.14
+ORD-10645,2022-02-17,2022-02-18,First Class,CUST-1141,Pranit Krishna,Home Office,East,Patna,Technology,Machines,9,2702.97,0.0,741.97
+ORD-10693,2023-11-03,2023-11-05,Same Day,CUST-1157,Riya Gara,Consumer,South,Bengaluru,Technology,Machines,1,318.43,0.0,93.23
+ORD-10097,2022-03-30,2022-04-05,Standard Class,CUST-1131,Vrishti Dasgupta,Corporate,North,Chandigarh,Office Supplies,Labels,9,1420.2,0.2,379.26
+ORD-10504,2024-03-06,2024-03-09,Same Day,CUST-1041,Idika Kumer,Consumer,North,Jaipur,Office Supplies,Binders,1,136.54,0.3,1.83
+ORD-10450,2024-08-02,2024-08-04,Second Class,CUST-1074,Henry Narain,Corporate,West,Ahmedabad,Office Supplies,Storage,7,1079.89,0.0,227.29
+ORD-10946,2024-11-04,2024-11-08,First Class,CUST-1011,Laksh Gera,Home Office,South,Chennai,Office Supplies,Binders,2,520.82,0.0,-4.26
+ORD-10734,2022-01-27,2022-02-03,Same Day,CUST-1120,Amruta Kala,Corporate,South,Chennai,Furniture,Tables,9,3310.92,0.0,401.13
+ORD-10517,2022-07-24,2022-07-31,Same Day,CUST-1042,Baljiwan Sundaram,Consumer,West,Pune,Furniture,Chairs,10,1943.0,0.0,-180.63
+ORD-10004,2022-06-13,2022-06-20,First Class,CUST-1049,Ronith Sharma,Consumer,North,Lucknow,Furniture,Tables,4,1738.32,0.1,39.25
+ORD-10177,2023-11-03,2023-11-10,Same Day,CUST-1140,,Consumer,South,Bengaluru,Technology,Accessories,9,2038.5,0.2,-12.34
+ORD-10934,2023-12-11,2023-12-15,Second Class,CUST-1068,Kala Thaker,Home Office,East,Kolkata,Technology,Phones,10,2482.4,0.0,-20.85
+ORD-10276,2022-12-10,2022-12-16,First Class,CUST-1084,Teerth Halder,Corporate,North,Lucknow,Furniture,Bookcases,2,825.22,0.2,123.85
+ORD-10139,2023-07-17,2023-07-23,Second Class,CUST-1114,Bahadurjit Varughese,Consumer,North,Jaipur,Technology,Machines,1,46.77,0.2,3.1
+ORD-10146,2022-09-14,2022-09-17,Second Class,CUST-1122,Balendra Nayar,Home Office,West,Mumbai,Office Supplies,Labels,2,460.98,0.2,48.98
+ORD-10985,2024-08-02,2024-08-08,Standard Class,CUST-1127,Laban Sarkar,Consumer,East,Bhubaneswar,Technology,Accessories,8,2096.56,0.3,341.74
+ORD-10503,2022-06-05,2022-06-11,First Class,CUST-1178,Ishaan Shukla,Corporate,South,Coimbatore,Office Supplies,Storage,8,3696.96,0.0,910.23
+ORD-10091,2022-11-13,2022-11-17,First Class,CUST-1034,Tara Dhawan,Consumer,West,Surat,Office Supplies,Storage,2,837.02,0.15,59.52
+ORD-10707,2024-07-20,2024-07-21,Same Day,CUST-1052,Nilima Buch,Corporate,South,Chennai,Office Supplies,Labels,6,1584.48,0.0,74.55
+ORD-10101,2022-07-10,2022-07-14,Standard Class,CUST-1175,Vasatika Hegde,Home Office,West,Mumbai,Furniture,Chairs,2,749.7,0.0,198.89
+ORD-10356,2024-08-05,2024-08-09,Second Class,CUST-1092,Gaurika Murthy,Home Office,South,Coimbatore,Technology,Machines,6,2337.84,0.1,311.93
+ORD-10966,2023-03-27,2023-04-02,Second Class,CUST-1160,Faraj Apte,Home Office,North,Jaipur,Furniture,Tables,4,559.96,0.0,66.09
+ORD-10172,2024-11-21,2024-11-24,Second Class,CUST-1145,Amol Thaker,Corporate,South,Coimbatore,Furniture,Furnishings,2,412.82,0.0,-6.96
+ORD-10195,2024-04-24,2024-04-26,Same Day,CUST-1008,Ranbir Mann,Corporate,North,Delhi,Technology,Phones,4,173.2,0.0,-16.61
+ORD-10417,2023-01-24,2023-01-29,First Class,CUST-1061,Tanveer Taneja,Corporate,East,Guwahati,Technology,Phones,8,3081.68,0.0,541.97
+ORD-10490,2024-11-24,2024-11-25,Standard Class,CUST-1020,Varsha Bansal,Home Office,South,Coimbatore,Technology,Machines,9,4014.54,0.0,41.57
+ORD-10678,2023-05-22,2023-05-23,First Class,CUST-1122,Balendra Nayar,Home Office,West,Ahmedabad,Furniture,Bookcases,8,1014.4,0.0,278.59
+ORD-10825,2022-06-07,2022-06-08,Second Class,CUST-1037,Patrick Shanker,Corporate,East,Patna,Furniture,Chairs,10,4172.2,0.1,-122.51
+ORD-10491,2024-12-31,2025-01-07,First Class,CUST-1162,Peter Walla,Corporate,East,Bhubaneswar,Technology,Phones,1,239.75,0.15,62.71
+ORD-10052,2024-07-30,2024-08-05,First Class,CUST-1107,Rayaan Patel,Home Office,West,Ahmedabad,Furniture,Furnishings,3,670.17,0.2,72.26
+ORD-10287,2022-09-16,2022-09-17,Second Class,CUST-1114,Bahadurjit Varughese,Home Office,South,Bengaluru,Furniture,Tables,7,338.8,0.2,26.0
+ORD-10692,2023-01-28,2023-02-02,Second Class,CUST-1016,Jackson Kakar,Consumer,North,Chandigarh,Furniture,Tables,7,2451.61,0.0,416.28
+ORD-10812,2022-09-28,2022-09-30,Standard Class,CUST-1098,Upadhriti Saha,Consumer,North,Delhi,Furniture,Chairs,2,282.3,0.2,38.36
+ORD-10433,2023-01-26,2023-01-29,Second Class,CUST-1171,Yasti Khalsa,Corporate,West,Ahmedabad,Office Supplies,Storage,6,1806.0,0.0,444.92
+ORD-10415,2024-08-17,2024-08-20,Second Class,CUST-1145,Amol Thaker,Corporate,South,Hyderabad,Technology,Machines,10,4580.9,0.15,-108.42
+ORD-10658,2023-07-18,2023-07-25,Same Day,CUST-1128,Aarini Bala,Consumer,North,Delhi,Furniture,Tables,4,520.76,0.2,115.61
+ORD-10606,2022-01-11,2022-01-14,First Class,CUST-1060,Jonathan Dugar,Consumer,West,Mumbai,Office Supplies,Labels,9,2822.67,0.0,959.39
+ORD-10853,2022-08-01,2022-08-05,Standard Class,CUST-1026,Baghyawati Batta,Home Office,North,Jaipur,Technology,Phones,10,4643.4,0.0,859.43
+ORD-10324,2022-12-05,2022-12-06,Standard Class,CUST-1164,Dakshesh Mistry,Home Office,South,Coimbatore,Technology,Copiers,8,1336.88,0.0,449.95
+ORD-10907,2022-07-19,2022-07-26,Standard Class,CUST-1021,Qarin Rajan,Consumer,North,Lucknow,Office Supplies,Binders,5,1435.35,0.2,56.37
+ORD-10774,2024-05-09,2024-05-16,Standard Class,CUST-1178,Ishaan Shukla,Home Office,South,Bengaluru,Technology,Machines,3,495.06,0.3,32.97
+ORD-10858,2024-06-14,2024-06-16,Same Day,CUST-1044,Oni Datta,Home Office,West,Pune,Office Supplies,Labels,2,715.82,0.0,90.85
+ORD-10402,2024-12-31,2025-01-01,Same Day,CUST-1133,Vivaan Shere,Corporate,South,Coimbatore,Office Supplies,Storage,8,3792.08,0.1,118.85
+ORD-10042,2023-04-26,2023-04-29,Second Class,CUST-1061,Tanveer Taneja,Consumer,East,Bhubaneswar,Office Supplies,Binders,6,999.96,0.15,-54.18
+ORD-10361,2024-03-05,2024-03-09,First Class,CUST-1059,Hiral Basak,Consumer,North,Lucknow,Technology,Accessories,8,3535.68,0.0,1206.61
+ORD-10368,2022-05-21,2022-05-23,Same Day,CUST-1046,Nathaniel Chakraborty,Consumer,East,Guwahati,Furniture,Bookcases,7,1392.16,0.0,-128.84
+ORD-10047,2024-02-16,2024-02-19,Standard Class,CUST-1083,Oeshi Pai,Corporate,South,Hyderabad,Office Supplies,Storage,7,935.27,0.0,104.41
+ORD-10038,2023-04-27,2023-05-03,Standard Class,CUST-1021,Qarin Rajan,Consumer,East,Kolkata,Technology,Machines,5,600.35,0.0,-20.23
+ORD-10773,2024-05-21,2024-05-27,First Class,CUST-1041,Idika Kumer,Home Office,West,Ahmedabad,Office Supplies,Binders,3,817.77,0.0,149.9
+ORD-10516,2022-05-10,2022-05-11,First Class,CUST-1054,Krishna Batra,Home Office,North,Lucknow,Technology,Accessories,5,396.05,0.1,-8.69
+ORD-10920,2024-06-15,2024-06-21,Second Class,CUST-1034,Tara Dhawan,Consumer,South,Coimbatore,Furniture,Bookcases,5,602.45,0.2,-13.04
+ORD-10847,2024-03-07,2024-03-14,Second Class,CUST-1137,Meera Kala,Corporate,South,Hyderabad,Technology,Copiers,1,284.85,0.15,-2.58
+ORD-10538,2024-10-13,2024-10-15,Same Day,CUST-1027,Jyoti Solanki,Home Office,South,Bengaluru,Office Supplies,Binders,4,1060.56,0.2,-76.18
+ORD-10569,2022-09-02,2022-09-04,Second Class,CUST-1026,Baghyawati Batta,Consumer,West,Mumbai,Office Supplies,Labels,7,1444.17,0.15,417.25
+ORD-10553,2022-09-12,2022-09-18,Second Class,CUST-1000,Abha Venkataraman,Consumer,South,Coimbatore,Office Supplies,Storage,5,1072.05,0.1,297.23
+ORD-10180,2022-10-05,2022-10-12,Same Day,CUST-1120,Amruta Kala,Corporate,North,Chandigarh,Office Supplies,Art,7,1354.43,0.1,124.14
+ORD-10083,2024-02-27,2024-03-05,First Class,CUST-1108,Jackson Balan,Home Office,East,Patna,Office Supplies,Storage,8,498.08,0.1,70.54
+ORD-10060,2023-01-13,2023-01-14,Standard Class,CUST-1072,Ganga Kalla,Corporate,West,Ahmedabad,Office Supplies,Art,5,2355.6,0.1,-103.16
+ORD-10066,2023-07-12,2023-07-17,Same Day,CUST-1031,Falguni Baria,Home Office,West,Surat,Technology,Machines,9,2267.64,0.0,383.5
+ORD-10419,2024-12-12,2024-12-17,Standard Class,CUST-1025,Falguni Bajaj,Consumer,North,Jaipur,Technology,Copiers,10,1354.1,0.0,-0.91
+ORD-10628,2023-08-27,2023-09-01,Same Day,CUST-1005,Falguni Manne,Corporate,West,Pune,Technology,Accessories,7,244.65,0.0,-13.16
+ORD-10973,2024-07-05,2024-07-09,Standard Class,CUST-1056,Owen Kala,Home Office,East,Bhubaneswar,Technology,Phones,4,1162.12,0.0,164.1
+ORD-10479,2024-09-14,2024-09-18,Same Day,CUST-1151,Yashodhara Mand,Corporate,West,Pune,Furniture,Tables,2,353.9,0.3,52.6
+ORD-10987,2024-05-06,2024-05-10,First Class,CUST-1108,Jackson Balan,Home Office,West,Pune,Furniture,Furnishings,1,155.41,0.1,48.69
+ORD-10109,2024-10-15,2024-10-21,Second Class,CUST-1065,Warda Vora,Home Office,East,Kolkata,Office Supplies,Binders,7,672.63,0.1,84.55
+ORD-10206,2023-01-19,2023-01-23,Standard Class,CUST-1092,Gaurika Murthy,Consumer,East,Kolkata,Furniture,Tables,8,2263.36,0.15,160.87
+ORD-10277,2023-12-19,2023-12-22,Same Day,CUST-1002,Arjun Borde,Consumer,East,Kolkata,Furniture,Tables,2,726.0,0.0,53.49
+ORD-10496,2024-06-20,2024-06-26,Standard Class,CUST-1039,Leela Menon,Home Office,West,Pune,Office Supplies,Art,3,339.96,0.2,75.83
+ORD-10456,2023-07-24,2023-07-29,Second Class,CUST-1104,Vanya Goyal,Consumer,West,Pune,Furniture,Chairs,9,3706.74,0.0,-289.08
+ORD-10766,2022-09-14,2022-09-15,Second Class,CUST-1046,Nathaniel Chakraborty,Corporate,West,Ahmedabad,Office Supplies,Art,6,246.66,0.3,44.52
+ORD-10952,2024-09-18,2024-09-23,Second Class,CUST-1020,Varsha Bansal,Home Office,East,Bhubaneswar,Technology,Phones,4,919.96,0.1,2.81
+ORD-10965,2024-12-03,2024-12-06,Standard Class,CUST-1176,Devika Contractor,Home Office,East,Kolkata,Furniture,Furnishings,4,1689.2,0.2,374.24
+ORD-10590,2023-09-03,2023-09-10,Standard Class,CUST-1124,Madhav Sathe,Corporate,North,Lucknow,Furniture,Chairs,2,902.56,0.1,246.57
+ORD-10578,2024-01-02,2024-01-06,First Class,CUST-1087,Indali Nair,Home Office,West,Ahmedabad,Furniture,Furnishings,6,225.96,0.0,2.58
+ORD-10026,2023-08-01,2023-08-06,First Class,CUST-1029,Banjeet Krishna,Home Office,North,Lucknow,Technology,Accessories,4,1446.52,0.0,302.86
+ORD-10152,2023-10-16,2023-10-18,Standard Class,CUST-1088,Ekanta Walla,Consumer,West,Mumbai,Furniture,Bookcases,8,560.32,0.1,5.83
+ORD-10768,2024-07-04,2024-07-11,Second Class,CUST-1168,,Consumer,North,Delhi,Furniture,Tables,6,421.74,0.0,66.97
+ORD-10801,2024-07-07,2024-07-13,Standard Class,CUST-1140,Nirja Swamy,Consumer,East,Bhubaneswar,Technology,Machines,2,912.64,0.0,107.02
+ORD-10269,2023-03-26,2023-03-31,Second Class,CUST-1168,Netra Lata,Consumer,South,Chennai,Office Supplies,Labels,7,1286.95,0.3,311.87
+ORD-10647,2024-12-28,2025-01-04,Second Class,CUST-1076,,Home Office,North,Chandigarh,Office Supplies,Storage,10,1245.8,0.0,34.93
+ORD-10054,2023-10-28,2023-10-30,First Class,CUST-1118,Bina Buch,Home Office,West,Surat,Office Supplies,Binders,8,911.52,0.3,10.37
+ORD-10059,2023-08-22,2023-08-28,Standard Class,CUST-1136,Rachita Bala,Home Office,South,Chennai,Office Supplies,Binders,3,967.68,0.3,81.89
+ORD-10799,2022-08-06,2022-08-08,Second Class,CUST-1166,Triya Khurana,Consumer,East,Kolkata,Furniture,Furnishings,10,689.7,0.15,196.83
+ORD-10463,2023-09-07,2023-09-12,First Class,CUST-1051,Ikshita Acharya,Corporate,East,Bhubaneswar,Office Supplies,Binders,9,1518.48,0.0,-74.06
+ORD-10333,2023-08-26,2023-08-30,First Class,CUST-1155,Sudiksha Roy,Home Office,South,Hyderabad,Office Supplies,Art,3,233.13,0.15,42.61
+ORD-10829,2022-12-04,2022-12-05,Standard Class,CUST-1119,Siya Oak,Consumer,West,Surat,Office Supplies,Art,6,1961.16,0.0,42.09
+ORD-10994,2022-04-17,2022-04-19,First Class,CUST-1042,,Corporate,West,Mumbai,Furniture,Bookcases,9,3649.86,0.1,654.28
+ORD-10238,2022-07-06,2022-07-12,Second Class,CUST-1101,Aarnav Barad,Home Office,East,Guwahati,Technology,Accessories,2,21.06,0.1,-1.23
+ORD-10802,2022-04-04,2022-04-09,Same Day,CUST-1153,Tara Vala,Corporate,East,Bhubaneswar,Technology,Accessories,1,399.25,0.2,-4.6
+ORD-10305,2022-04-20,2022-04-27,Second Class,CUST-1066,Girindra Bhavsar,Home Office,East,Guwahati,Office Supplies,Binders,10,2943.5,0.15,-170.02
+ORD-10438,2024-02-19,2024-02-24,Standard Class,CUST-1004,Irya Barad,Consumer,East,Patna,Technology,Copiers,2,905.8,0.1,236.45
+ORD-10233,2024-07-14,2024-07-15,First Class,CUST-1036,Gaurang Dave,Corporate,East,Guwahati,Technology,Copiers,2,414.8,0.2,8.36
+ORD-10742,2023-01-10,2023-01-17,Standard Class,CUST-1145,Amol Thaker,Home Office,South,Chennai,Furniture,Tables,4,548.32,0.3,32.22
+ORD-10834,2022-11-27,2022-11-29,Second Class,CUST-1097,Manya Trivedi,Consumer,West,Ahmedabad,Technology,Phones,8,388.72,0.2,-18.04
+ORD-10178,2024-11-17,2024-11-21,First Class,CUST-1130,Atharv Karpe,Home Office,West,Pune,Furniture,Furnishings,8,2290.56,0.15,210.41
+ORD-10120,2022-09-22,2022-09-27,First Class,CUST-1020,Varsha Bansal,Consumer,South,Coimbatore,Office Supplies,Storage,2,323.4,0.1,55.18
+ORD-10130,2023-05-04,2023-05-08,Same Day,CUST-1073,Gayathri Palla,Home Office,South,Chennai,Office Supplies,Binders,10,2339.9,0.0,647.0
+ORD-10493,2024-09-19,2024-09-20,First Class,CUST-1013,Lipika Suresh,Consumer,East,Bhubaneswar,Technology,Phones,3,773.22,0.3,136.77
+ORD-10508,2022-09-06,2022-09-11,First Class,CUST-1017,Jhalak D’Alia,Corporate,South,Coimbatore,Furniture,Furnishings,9,4213.53,0.0,210.88
+ORD-10198,2024-07-29,2024-08-03,Standard Class,CUST-1068,Kala Thaker,Home Office,West,Surat,Furniture,Bookcases,4,1980.84,0.0,69.31
+ORD-10468,2022-08-18,2022-08-21,Standard Class,CUST-1115,Falak Chander,Corporate,East,Patna,Furniture,Bookcases,1,391.12,0.0,38.99
+ORD-10779,2024-05-06,2024-05-12,First Class,CUST-1068,Kala Thaker,Corporate,North,Chandigarh,Technology,Machines,8,797.76,0.0,206.87
+ORD-10112,2024-12-09,2024-12-10,First Class,CUST-1111,Aahana Som,Consumer,North,Jaipur,Furniture,Furnishings,7,3055.92,0.2,129.04
+ORD-10929,2024-09-14,2024-09-15,Same Day,CUST-1014,Garima Kanda,Home Office,North,Delhi,Furniture,Furnishings,7,2696.26,0.2,-94.14
+ORD-10681,2024-04-21,2024-04-23,Same Day,CUST-1013,Lipika Suresh,Corporate,East,Kolkata,Office Supplies,Art,10,3958.6,0.15,-320.42
+ORD-10128,2023-11-18,2023-11-25,Same Day,CUST-1095,Januja Bora,Home Office,South,Chennai,Furniture,Bookcases,3,232.26,0.0,72.66
+ORD-10958,2023-10-19,2023-10-23,Standard Class,CUST-1001,Yochana Kalla,Consumer,East,Guwahati,Technology,Copiers,3,777.75,0.15,16.98
+ORD-10937,2023-02-26,2023-03-02,First Class,CUST-1097,Manya Trivedi,Consumer,West,Pune,Office Supplies,Binders,3,1000.08,0.15,-65.02
+ORD-10302,2024-03-06,2024-03-12,First Class,CUST-1127,Laban Sarkar,Home Office,East,Guwahati,Office Supplies,Art,1,295.68,0.15,67.16
+ORD-10793,2023-02-11,2023-02-15,Second Class,CUST-1071,Rushil Sharaf,Home Office,North,Jaipur,Office Supplies,Paper,2,707.12,0.15,105.18
+ORD-10816,2022-07-28,2022-07-31,Standard Class,CUST-1028,Quincy Munshi,Consumer,West,Pune,Furniture,Chairs,6,284.28,0.0,-13.29
+ORD-10832,2024-01-01,2024-01-08,Same Day,CUST-1012,Aachal Dhawan,Home Office,East,Kolkata,Furniture,Bookcases,5,2398.9,0.15,-25.09
+ORD-10609,2024-06-11,2024-06-13,Second Class,CUST-1072,Ganga Kalla,Home Office,East,Bhubaneswar,Technology,Machines,6,2226.42,0.1,488.23
+ORD-10990,2022-07-12,2022-07-17,Second Class,CUST-1001,Yochana Kalla,Consumer,East,Patna,Technology,Accessories,8,1377.68,0.0,249.69
+ORD-10395,2024-04-08,2024-04-15,First Class,CUST-1037,Patrick Shanker,Home Office,South,Coimbatore,Technology,Machines,2,97.52,0.0,0.26
+ORD-10583,2023-03-06,2023-03-09,First Class,CUST-1086,Vinaya Gola,Corporate,East,Guwahati,Furniture,Furnishings,2,658.5,0.0,83.69
+ORD-10977,2023-04-17,2023-04-23,Same Day,CUST-1010,Charan Anand,Home Office,South,Chennai,Office Supplies,Storage,4,106.2,0.2,-3.77
+ORD-10783,2022-06-03,2022-06-06,Same Day,CUST-1114,Bahadurjit Varughese,Consumer,South,Bengaluru,Technology,Accessories,3,785.13,0.0,70.84
+ORD-10752,2023-07-29,2023-07-31,Second Class,CUST-1111,Aahana Som,Home Office,North,Jaipur,Furniture,Bookcases,5,1681.55,0.2,-60.01
+ORD-10245,2022-05-19,2022-05-20,Same Day,CUST-1139,Samaksh Minhas,Home Office,South,Chennai,Office Supplies,Binders,5,578.55,0.0,189.13
+ORD-10161,2023-05-12,2023-05-13,Same Day,CUST-1013,Lipika Suresh,Corporate,West,Pune,Furniture,Furnishings,10,4746.2,0.0,-67.14
+ORD-10689,2022-03-02,2022-03-04,Second Class,CUST-1074,Henry Narain,Corporate,West,Mumbai,Furniture,Bookcases,4,596.84,0.0,178.11
+ORD-10069,2024-03-31,2024-04-07,First Class,CUST-1084,Teerth Halder,Consumer,West,Ahmedabad,Technology,Copiers,9,251.82,0.0,10.46
+ORD-10808,2024-06-24,2024-06-26,Same Day,CUST-1176,Devika Contractor,Consumer,West,Pune,Technology,Machines,6,850.26,0.15,132.55
+ORD-10104,2022-03-01,2022-03-03,First Class,CUST-1057,Janaki Kuruvilla,Consumer,West,Ahmedabad,Technology,Phones,5,1771.6,0.0,557.51
+ORD-10064,2023-08-14,2023-08-20,Second Class,CUST-1176,Devika Contractor,Corporate,West,Pune,Office Supplies,Binders,5,1772.3,0.1,-108.42
+ORD-10859,2022-07-11,2022-07-12,Standard Class,CUST-1066,Girindra Bhavsar,Home Office,South,Chennai,Office Supplies,Paper,7,109.55,0.3,12.8
+ORD-10472,2023-07-15,2023-07-16,Second Class,CUST-1171,Yasti Khalsa,Home Office,North,Chandigarh,Office Supplies,Paper,1,479.57,0.15,53.53
+ORD-10842,2024-06-06,2024-06-08,Same Day,CUST-1021,Qarin Rajan,Consumer,South,Coimbatore,Technology,Phones,7,1197.49,0.0,64.77
+ORD-10274,2022-12-26,2022-12-30,Standard Class,CUST-1081,Vamakshi Mittal,Home Office,South,Bengaluru,Technology,Machines,5,1848.3,0.0,-78.91
+ORD-10201,2023-03-01,2023-03-06,Standard Class,CUST-1144,Darika Nori,Corporate,North,Delhi,Furniture,Bookcases,3,1135.8,0.2,244.79
+ORD-10528,2023-07-26,2023-07-27,Same Day,CUST-1105,Zehaan Dubey,Home Office,West,Surat,Furniture,Furnishings,7,2595.11,0.0,29.91
+ORD-10745,2024-01-30,2024-02-05,First Class,CUST-1121,Varsha Prashad,Home Office,East,Bhubaneswar,Technology,Copiers,6,2998.38,0.3,16.41
+ORD-10720,2024-05-01,2024-05-06,Second Class,CUST-1170,Triveni Bhasin,Home Office,South,Chennai,Technology,Accessories,2,819.32,0.0,125.29
+ORD-10933,2024-06-27,2024-07-03,Second Class,CUST-1064,Aishani Sharma,Home Office,South,Bengaluru,Office Supplies,Storage,5,2356.5,0.3,244.35
+ORD-10481,2024-04-11,2024-04-12,Same Day,CUST-1142,Banjeet Gopal,Corporate,North,Lucknow,Office Supplies,Paper,10,632.8,0.3,74.59
+ORD-10895,2022-10-30,2022-11-03,Standard Class,CUST-1169,,Consumer,West,Mumbai,Furniture,Bookcases,4,1332.36,0.0,80.92
+ORD-10221,2024-07-26,2024-07-27,First Class,CUST-1026,Baghyawati Batta,Home Office,South,Bengaluru,Office Supplies,Storage,5,1693.2,0.1,209.49
+ORD-10002,2023-03-17,2023-03-24,First Class,CUST-1178,Ishaan Shukla,Home Office,West,Pune,Office Supplies,Storage,6,360.48,0.1,-18.32
+ORD-10145,2024-08-15,2024-08-22,Same Day,CUST-1060,Jonathan Dugar,Home Office,West,Ahmedabad,Furniture,Bookcases,9,662.31,0.0,-46.64
+ORD-10280,2022-03-05,2022-03-09,Standard Class,CUST-1019,Yauvani Kannan,Corporate,North,Jaipur,Office Supplies,Labels,3,922.77,0.1,-24.34
+ORD-10446,2024-03-04,2024-03-08,Same Day,CUST-1154,Alka Dhingra,Consumer,West,Pune,Technology,Machines,8,619.04,0.0,1.13
+ORD-10710,2024-08-05,2024-08-10,Same Day,CUST-1063,Gautami Walla,Corporate,East,Guwahati,Technology,Copiers,1,371.27,0.0,70.85
+ORD-10731,2024-09-12,2024-09-13,Same Day,CUST-1147,Qarin Sood,Home Office,West,Ahmedabad,Technology,Accessories,6,1230.84,0.0,137.63
+ORD-10358,2023-06-18,2023-06-23,Same Day,CUST-1148,Eta Acharya,Consumer,West,Mumbai,Technology,Accessories,9,2171.97,0.3,-50.35
+ORD-10262,2022-07-13,2022-07-17,Standard Class,CUST-1044,Oni Datta,Consumer,North,Chandigarh,Office Supplies,Art,2,807.82,0.0,-36.63
+ORD-10218,2023-12-04,2023-12-10,Second Class,CUST-1017,Jhalak D’Alia,Home Office,East,Kolkata,Furniture,Chairs,2,683.6,0.0,217.7
+ORD-10763,2024-06-07,2024-06-09,Same Day,CUST-1121,Varsha Prashad,Corporate,South,Hyderabad,Furniture,Chairs,7,910.35,0.0,7.63
+ORD-10121,2022-02-07,2022-02-10,Same Day,CUST-1171,Yasti Khalsa,Consumer,North,Lucknow,Technology,Copiers,5,491.65,0.0,26.44
+ORD-10021,2022-04-13,2022-04-18,Standard Class,CUST-1014,Garima Kanda,Home Office,North,Delhi,Technology,Machines,8,2051.2,0.3,199.59
+ORD-10943,2023-07-21,2023-07-26,First Class,CUST-1142,Banjeet Gopal,Corporate,South,Chennai,Office Supplies,Binders,9,1474.83,0.0,144.83
+ORD-10887,2024-05-15,2024-05-17,Same Day,CUST-1069,Alexander Sarkar,Home Office,East,Guwahati,Furniture,Chairs,5,514.15,0.0,86.03
+ORD-10616,2022-12-31,2023-01-02,Same Day,CUST-1018,Victor Dube,Corporate,West,Ahmedabad,Furniture,Furnishings,7,375.9,0.3,-1.66
+ORD-10530,2022-06-20,2022-06-25,Second Class,CUST-1178,Ishaan Shukla,Corporate,North,Chandigarh,Office Supplies,Art,1,349.65,0.1,103.05
+ORD-10936,2024-02-26,2024-02-29,Same Day,CUST-1005,Falguni Manne,Consumer,West,Ahmedabad,Furniture,Bookcases,2,78.52,0.3,9.58
+ORD-10531,2024-09-09,2024-09-15,Standard Class,CUST-1075,Thomas Joshi,Corporate,South,Chennai,Technology,Phones,5,446.4,0.1,114.93
+ORD-10705,2022-05-11,2022-05-16,Same Day,CUST-1145,Amol Thaker,Home Office,West,Surat,Office Supplies,Paper,7,716.03,0.0,34.35
+ORD-10947,2022-10-21,2022-10-22,Same Day,CUST-1106,Vinaya Dhingra,Home Office,North,Lucknow,Technology,Copiers,6,1844.46,0.0,93.59
+ORD-10337,2022-03-08,2022-03-11,Second Class,CUST-1064,Aishani Sharma,Home Office,South,Bengaluru,Furniture,Bookcases,8,481.76,0.3,68.79
+ORD-10200,2023-04-16,2023-04-18,First Class,CUST-1111,Aahana Som,Home Office,East,Kolkata,Technology,Phones,10,2430.0,0.0,767.57
+ORD-10137,2024-11-29,2024-12-02,Second Class,CUST-1086,Vinaya Gola,Home Office,South,Hyderabad,Office Supplies,Art,2,732.54,0.0,68.69
+ORD-10025,2024-12-19,2024-12-20,Second Class,CUST-1072,Ganga Kalla,Corporate,South,Hyderabad,Office Supplies,Labels,9,1410.3,0.2,-60.23
+ORD-10726,2023-02-23,2023-03-01,Same Day,CUST-1127,Laban Sarkar,Home Office,East,Guwahati,Furniture,Tables,1,126.65,0.2,17.14
+ORD-10941,2023-07-05,2023-07-11,Standard Class,CUST-1146,Imaran Barad,Consumer,West,Ahmedabad,Furniture,Bookcases,5,1966.95,0.3,340.37
+ORD-10660,2023-08-08,2023-08-10,Same Day,CUST-1065,Warda Vora,Home Office,North,Chandigarh,Furniture,Chairs,3,405.66,0.0,-12.41
+ORD-10724,2023-11-18,2023-11-19,Second Class,CUST-1044,Oni Datta,Home Office,East,Kolkata,Technology,Copiers,10,4569.3,0.1,296.37
+ORD-10319,2023-07-04,2023-07-10,Same Day,CUST-1169,Oviya Arora,Corporate,South,Coimbatore,Office Supplies,Storage,2,385.16,0.0,-6.82
+ORD-10845,2023-07-15,2023-07-19,Same Day,CUST-1064,Aishani Sharma,Home Office,South,Chennai,Furniture,Tables,2,312.38,0.2,25.77
+ORD-10621,2022-06-06,2022-06-07,Same Day,CUST-1133,Vivaan Shere,Home Office,West,Mumbai,Office Supplies,Labels,9,564.66,0.1,43.63
+ORD-10376,2024-06-10,2024-06-11,Standard Class,CUST-1099,Arunima Chaudhuri,Home Office,North,Jaipur,Furniture,Tables,2,277.84,0.0,-17.78
+ORD-10440,2024-10-23,2024-10-26,Standard Class,CUST-1175,Vasatika Hegde,Home Office,East,Patna,Office Supplies,Storage,1,316.64,0.1,85.69
+ORD-10077,2022-10-23,2022-10-27,First Class,CUST-1112,Teerth Patil,Home Office,North,Delhi,Technology,Copiers,3,140.01,0.3,32.94
+ORD-10836,2022-11-09,2022-11-14,First Class,CUST-1174,Triya Nayar,Home Office,West,Mumbai,Furniture,Tables,8,461.84,0.0,-16.54
+ORD-10286,2022-03-13,2022-03-18,Second Class,CUST-1060,Jonathan Dugar,Consumer,West,Surat,Office Supplies,Binders,10,4512.2,0.3,496.42
+ORD-10232,2023-05-27,2023-05-29,Same Day,CUST-1015,Nidhi Gara,Corporate,East,Patna,Technology,Accessories,6,2495.76,0.3,488.47
+ORD-10231,2023-07-02,2023-07-09,Second Class,CUST-1071,Rushil Sharaf,Corporate,South,Hyderabad,Office Supplies,Storage,9,4436.01,0.2,946.93
+ORD-10507,2024-03-12,2024-03-17,Same Day,CUST-1170,Triveni Bhasin,Corporate,West,Ahmedabad,Office Supplies,Paper,1,262.54,0.3,22.2
+ORD-10560,2022-08-31,2022-09-02,First Class,CUST-1113,Tristan Lad,Consumer,East,Kolkata,Furniture,Bookcases,3,1289.52,0.0,270.31
+ORD-10540,2023-10-31,2023-11-04,Same Day,CUST-1165,Upasna Kumer,Corporate,East,Bhubaneswar,Office Supplies,Labels,10,3362.7,0.15,797.06
+ORD-10048,2023-05-22,2023-05-24,Standard Class,CUST-1057,Janaki Kuruvilla,Home Office,North,Delhi,Technology,Phones,1,314.45,0.0,-13.58
+ORD-10764,2024-08-07,2024-08-14,Standard Class,CUST-1176,Devika Contractor,Consumer,South,Chennai,Technology,Copiers,7,1014.02,0.2,81.37
+ORD-10806,2023-10-27,2023-10-28,First Class,CUST-1136,Rachita Bala,Corporate,North,Lucknow,Furniture,Bookcases,9,1254.42,0.0,105.06
+ORD-10873,2023-10-18,2023-10-20,First Class,CUST-1165,Upasna Kumer,Corporate,West,Ahmedabad,Technology,Copiers,4,137.32,0.1,15.37
+ORD-10817,2023-01-07,2023-01-13,First Class,CUST-1154,Alka Dhingra,Corporate,South,Hyderabad,Furniture,Furnishings,7,585.27,0.2,97.96
+ORD-10068,2024-10-04,2024-10-05,Standard Class,CUST-1166,Triya Khurana,Consumer,West,Surat,Office Supplies,Paper,8,1444.0,0.0,64.22
+ORD-10980,2024-02-11,2024-02-14,Same Day,CUST-1051,Ikshita Acharya,Corporate,North,Jaipur,Office Supplies,Labels,7,389.2,0.1,53.4
+ORD-10010,2023-08-25,2023-08-29,First Class,CUST-1137,Meera Kala,Home Office,East,Kolkata,Technology,Machines,3,696.96,0.2,164.0
+ORD-10778,2023-06-15,2023-06-16,Same Day,CUST-1088,Ekanta Walla,Home Office,West,Pune,Office Supplies,Labels,9,3235.32,0.2,-111.64
+ORD-10271,2022-04-26,2022-04-28,First Class,CUST-1079,Zayan Sangha,Home Office,South,Chennai,Office Supplies,Binders,10,1172.2,0.15,114.68
+ORD-10682,2024-11-25,2024-11-28,Standard Class,CUST-1109,Kashvi Kara,Home Office,North,Jaipur,Office Supplies,Binders,10,1043.2,0.0,-98.55
+ORD-10666,2024-02-18,2024-02-21,Second Class,CUST-1015,Nidhi Gara,Home Office,West,Ahmedabad,Office Supplies,Labels,4,1186.92,0.15,26.83
+ORD-10058,2022-07-25,2022-08-01,Standard Class,CUST-1055,,Home Office,West,Ahmedabad,Office Supplies,Labels,4,620.64,0.0,-11.95
+ORD-10062,2024-06-25,2024-06-28,Standard Class,CUST-1106,Vinaya Dhingra,Home Office,South,Coimbatore,Technology,Copiers,10,4951.2,0.0,771.81
+ORD-10558,2023-11-28,2023-11-30,Second Class,CUST-1035,,Home Office,East,Guwahati,Office Supplies,Art,2,233.52,0.15,-0.1
+ORD-10899,2023-09-14,2023-09-18,Standard Class,CUST-1174,Triya Nayar,Consumer,South,Bengaluru,Technology,Machines,5,208.3,0.0,-19.37
+ORD-10301,2022-04-27,2022-05-04,Standard Class,CUST-1066,Girindra Bhavsar,Home Office,East,Patna,Furniture,Tables,10,2080.1,0.0,429.21
+ORD-10093,2022-07-07,2022-07-13,Standard Class,CUST-1101,Aarnav Barad,Corporate,East,Guwahati,Furniture,Chairs,4,1297.76,0.15,371.73
+ORD-10617,2024-06-04,2024-06-10,Standard Class,CUST-1072,Ganga Kalla,Corporate,South,Coimbatore,Furniture,Bookcases,5,2264.15,0.15,-78.75
+ORD-10562,2022-03-30,2022-03-31,Standard Class,CUST-1131,Vrishti Dasgupta,Home Office,North,Lucknow,Office Supplies,Binders,5,1685.6,0.3,-66.75
+ORD-10539,2024-06-28,2024-07-04,Second Class,CUST-1138,Harita Mani,Home Office,South,Coimbatore,Office Supplies,Storage,1,152.84,0.0,-13.77
+ORD-10228,2024-01-22,2024-01-27,Same Day,CUST-1130,Atharv Karpe,Consumer,North,Lucknow,Technology,Phones,1,382.4,0.1,50.2
+ORD-10028,2022-06-04,2022-06-10,Second Class,CUST-1113,Tristan Lad,Corporate,West,Mumbai,Technology,Phones,3,832.02,0.3,38.53
+ORD-10697,2024-06-29,2024-07-04,First Class,CUST-1140,Nirja Swamy,Corporate,North,Lucknow,Furniture,Chairs,6,736.74,0.0,80.57
+ORD-10138,2023-08-29,2023-09-01,Same Day,CUST-1075,Thomas Joshi,Corporate,East,Bhubaneswar,Furniture,Chairs,8,2442.24,0.1,-54.97
+ORD-10948,2022-11-25,2022-11-28,Standard Class,CUST-1095,Januja Bora,Consumer,West,Mumbai,Office Supplies,Labels,1,152.53,0.0,47.34
+ORD-10259,2022-10-06,2022-10-13,Same Day,CUST-1115,Falak Chander,Corporate,East,Patna,Furniture,Chairs,10,634.0,0.0,-16.5
+ORD-10359,2024-03-23,2024-03-26,Second Class,CUST-1150,Aarav Buch,Home Office,East,Kolkata,Furniture,Furnishings,9,136.71,0.0,38.5
+ORD-10833,2024-04-14,2024-04-20,Standard Class,CUST-1091,Tanmayi Amble,Home Office,South,Hyderabad,Technology,Phones,9,535.41,0.3,93.24
+ORD-10926,2022-10-13,2022-10-15,Standard Class,CUST-1107,Rayaan Patel,Consumer,East,Kolkata,Furniture,Bookcases,9,3691.89,0.0,1166.19
+ORD-10810,2022-02-13,2022-02-16,Second Class,CUST-1145,Amol Thaker,Consumer,West,Ahmedabad,Technology,Accessories,3,1331.31,0.3,72.12
+ORD-10499,2023-07-13,2023-07-16,Same Day,CUST-1174,Triya Nayar,Corporate,North,Jaipur,Furniture,Bookcases,5,704.35,0.0,10.5
+ORD-10641,2023-11-24,2023-11-27,Same Day,CUST-1113,Tristan Lad,Consumer,South,Chennai,Furniture,Chairs,7,3438.05,0.0,327.76
+ORD-10838,2024-06-24,2024-06-30,First Class,CUST-1045,Avi Varkey,Corporate,West,Ahmedabad,Office Supplies,Art,3,1411.56,0.15,143.64
+ORD-10480,2022-06-09,2022-06-15,Same Day,CUST-1145,Amol Thaker,Corporate,East,Patna,Technology,Accessories,10,4200.1,0.0,699.2
+ORD-10423,2022-11-20,2022-11-25,First Class,CUST-1042,Baljiwan Sundaram,Corporate,South,Hyderabad,Technology,Copiers,10,2270.8,0.0,695.13
+ORD-10893,2023-04-13,2023-04-18,Standard Class,CUST-1120,Amruta Kala,Corporate,North,Lucknow,Furniture,Chairs,9,827.82,0.0,206.02
+ORD-10255,2022-01-14,2022-01-18,Standard Class,CUST-1094,Vritti Shah,Corporate,West,Pune,Furniture,Tables,1,124.17,0.0,23.12
+ORD-10532,2024-01-29,2024-02-04,Standard Class,CUST-1118,Bina Buch,Corporate,South,Bengaluru,Technology,Copiers,8,2839.28,0.0,815.36
+ORD-10100,2024-03-27,2024-03-31,First Class,CUST-1115,Falak Chander,Consumer,South,Coimbatore,Office Supplies,Storage,2,326.3,0.0,65.03
+ORD-10846,2024-05-27,2024-05-30,Same Day,CUST-1054,Krishna Batra,Corporate,East,Kolkata,Furniture,Chairs,5,453.1,0.0,146.75
+ORD-10876,2022-06-13,2022-06-18,Same Day,CUST-1077,Lavanya Sheth,Corporate,East,Guwahati,Office Supplies,Storage,6,1511.82,0.0,116.41
+ORD-10076,2024-03-01,2024-03-07,First Class,CUST-1011,Laksh Gera,Consumer,East,Guwahati,Technology,Copiers,3,758.13,0.0,-32.74
+ORD-10650,2024-09-29,2024-10-05,Same Day,CUST-1149,Ishanvi Varma,Home Office,West,Surat,Technology,Copiers,7,2895.69,0.0,369.5
+ORD-10439,2023-05-22,2023-05-27,Standard Class,CUST-1050,Tanmayi Saha,Corporate,West,Mumbai,Technology,Phones,5,867.25,0.1,183.4
+ORD-10158,2022-03-21,2022-03-23,Second Class,CUST-1050,Tanmayi Saha,Corporate,West,Mumbai,Technology,Phones,6,2423.64,0.15,217.64
+ORD-10115,2023-07-17,2023-07-22,Same Day,CUST-1112,Teerth Patil,Consumer,North,Lucknow,Office Supplies,Art,1,182.45,0.0,7.24
+ORD-10579,2022-12-14,2022-12-15,Same Day,CUST-1021,Qarin Rajan,Home Office,North,Lucknow,Office Supplies,Binders,9,1528.2,0.1,269.57
+ORD-10548,2024-03-01,2024-03-04,Same Day,CUST-1092,Gaurika Murthy,Home Office,West,Ahmedabad,Furniture,Furnishings,1,149.48,0.0,5.78
+ORD-10709,2023-07-19,2023-07-21,Same Day,CUST-1154,Alka Dhingra,Home Office,East,Guwahati,Technology,Accessories,1,495.63,0.1,-31.77
+ORD-10194,2022-12-13,2022-12-15,Standard Class,CUST-1164,Dakshesh Mistry,Home Office,West,Ahmedabad,Office Supplies,Paper,9,2243.43,0.15,659.12
+ORD-10448,2024-03-18,2024-03-23,Standard Class,CUST-1109,Kashvi Kara,Home Office,West,Ahmedabad,Furniture,Furnishings,10,3009.6,0.15,482.54
+ORD-10713,2024-10-30,2024-11-06,Standard Class,CUST-1105,Zehaan Dubey,Corporate,North,Delhi,Office Supplies,Binders,6,1265.7,0.0,17.4
+ORD-10268,2024-08-24,2024-08-29,Standard Class,CUST-1152,Tanvi Patel,Consumer,South,Chennai,Furniture,Bookcases,6,2314.5,0.0,782.97
+ORD-10451,2022-10-05,2022-10-09,Second Class,CUST-1165,Upasna Kumer,Corporate,West,Pune,Furniture,Chairs,7,1179.5,0.0,-23.01
+ORD-10823,2024-05-12,2024-05-14,Standard Class,CUST-1092,Gaurika Murthy,Home Office,South,Bengaluru,Office Supplies,Art,4,1662.52,0.0,392.6
+ORD-10193,2023-05-19,2023-05-23,Same Day,CUST-1039,Leela Menon,Home Office,South,Coimbatore,Office Supplies,Paper,9,2976.84,0.2,123.61
+ORD-10931,2022-01-31,2022-02-07,Same Day,CUST-1002,Arjun Borde,Consumer,South,Chennai,Office Supplies,Labels,4,1632.72,0.0,-121.65
+ORD-10339,2024-01-24,2024-01-31,Second Class,CUST-1064,Aishani Sharma,Corporate,South,Bengaluru,Technology,Copiers,10,2778.4,0.15,-27.37
+ORD-10512,2024-04-10,2024-04-11,Second Class,CUST-1009,Omya Sharma,Home Office,East,Kolkata,Furniture,Bookcases,4,1621.92,0.2,175.69
+ORD-10874,2024-02-24,2024-02-26,Standard Class,CUST-1030,Waida Aggarwal,Corporate,North,Lucknow,Office Supplies,Paper,10,204.2,0.0,38.73
+ORD-10323,2023-12-10,2023-12-16,Standard Class,CUST-1086,Vinaya Gola,Consumer,North,Jaipur,Office Supplies,Paper,7,579.88,0.3,61.4
+ORD-10855,2024-11-05,2024-11-08,Same Day,CUST-1165,Upasna Kumer,Home Office,West,Pune,Furniture,Bookcases,5,2205.05,0.0,84.52
+ORD-10087,2023-08-28,2023-09-03,Second Class,CUST-1128,Aarini Bala,Consumer,East,Guwahati,Furniture,Bookcases,6,2424.42,0.1,727.26
+ORD-10244,2024-12-17,2024-12-18,Same Day,CUST-1028,Quincy Munshi,Corporate,South,Chennai,Office Supplies,Labels,6,2805.72,0.0,207.84
+ORD-10207,2022-01-26,2022-01-29,Second Class,CUST-1090,Baghyawati Joshi,Home Office,North,Jaipur,Technology,Machines,7,1400.14,0.0,316.68
+ORD-10706,2022-03-07,2022-03-14,Same Day,CUST-1077,Lavanya Sheth,Corporate,North,Chandigarh,Furniture,Chairs,10,2494.2,0.0,-26.07
+ORD-10260,2024-07-14,2024-07-17,First Class,CUST-1104,Vanya Goyal,Home Office,North,Chandigarh,Technology,Machines,8,1118.8,0.0,-66.36
+ORD-10826,2024-06-28,2024-07-05,Standard Class,CUST-1035,,Home Office,East,Bhubaneswar,Office Supplies,Art,1,150.52,0.0,-10.99
+ORD-10566,2022-09-11,2022-09-15,First Class,CUST-1131,Vrishti Dasgupta,Home Office,South,Hyderabad,Office Supplies,Binders,2,529.34,0.1,115.78
+ORD-10006,2024-04-01,2024-04-04,First Class,CUST-1083,Oeshi Pai,Consumer,North,Lucknow,Furniture,Chairs,2,226.76,0.15,56.74
+ORD-10299,2024-02-11,2024-02-18,Same Day,CUST-1155,Sudiksha Roy,Home Office,East,Guwahati,Technology,Machines,6,1409.46,0.0,155.06
+ORD-10574,2022-02-06,2022-02-13,First Class,CUST-1127,Laban Sarkar,Corporate,West,Ahmedabad,Technology,Machines,1,495.45,0.0,35.99
+ORD-10556,2023-08-17,2023-08-20,Second Class,CUST-1092,Gaurika Murthy,Consumer,West,Mumbai,Technology,Machines,9,2907.72,0.0,381.61
+ORD-10522,2023-03-06,2023-03-10,Same Day,CUST-1011,Laksh Gera,Consumer,North,Lucknow,Technology,Machines,5,869.0,0.3,182.82
+ORD-10489,2022-03-10,2022-03-11,Same Day,CUST-1060,Jonathan Dugar,Home Office,East,Bhubaneswar,Office Supplies,Labels,10,2468.0,0.0,-121.12
+ORD-10116,2024-11-04,2024-11-08,Standard Class,CUST-1014,Garima Kanda,Corporate,East,Kolkata,Office Supplies,Binders,8,2354.88,0.3,383.28
+ORD-10743,2022-09-13,2022-09-16,Same Day,CUST-1042,Baljiwan Sundaram,Home Office,North,Jaipur,Office Supplies,Binders,2,355.3,0.15,1.71
+ORD-10736,2024-02-29,2024-03-04,First Class,CUST-1089,Ojasvi Shanker,Home Office,West,Mumbai,Technology,Machines,4,515.0,0.0,162.05
+ORD-10739,2022-07-02,2022-07-03,First Class,CUST-1077,Lavanya Sheth,Home Office,West,Surat,Technology,Machines,10,3905.8,0.0,1040.52
+ORD-10340,2022-12-22,2022-12-28,First Class,CUST-1114,Bahadurjit Varughese,Consumer,South,Bengaluru,Technology,Phones,9,616.32,0.0,57.21
+ORD-10917,2022-05-19,2022-05-20,Standard Class,CUST-1178,Ishaan Shukla,Corporate,East,Guwahati,Technology,Machines,1,427.5,0.0,1.82
+ORD-10867,2024-10-12,2024-10-16,Second Class,CUST-1023,Logan Dutta,Home Office,East,Guwahati,Technology,Machines,9,4263.39,0.0,53.47
+ORD-10677,2024-05-17,2024-05-18,Standard Class,CUST-1049,Ronith Sharma,Consumer,East,Patna,Furniture,Chairs,4,425.88,0.0,16.98
+ORD-10379,2024-11-26,2024-11-27,First Class,CUST-1171,Yasti Khalsa,Corporate,West,Pune,Office Supplies,Labels,2,920.8,0.15,21.93
+ORD-10243,2023-08-29,2023-09-04,Same Day,CUST-1006,Benjamin Narayanan,Corporate,East,Guwahati,Furniture,Tables,1,394.06,0.3,90.92
+ORD-10156,2022-04-15,2022-04-20,Same Day,CUST-1093,,Home Office,West,Surat,Office Supplies,Binders,9,948.42,0.15,24.08
+ORD-10637,2022-12-09,2022-12-15,First Class,CUST-1156,Hemangini Tandon,Home Office,North,Delhi,Technology,Phones,2,873.46,0.0,-25.62
+ORD-10421,2024-11-29,2024-11-30,Second Class,CUST-1010,Charan Anand,Home Office,North,Chandigarh,Office Supplies,Binders,2,730.66,0.15,45.59
+ORD-10844,2024-08-27,2024-08-29,Same Day,CUST-1008,Ranbir Mann,Corporate,West,Surat,Furniture,Bookcases,1,113.63,0.0,37.35
+ORD-10389,2023-12-04,2023-12-07,First Class,CUST-1140,Nirja Swamy,Corporate,East,Guwahati,Furniture,Bookcases,3,763.2,0.0,67.61
+ORD-10608,2023-10-04,2023-10-05,First Class,CUST-1135,Yagnesh Balasubramanian,Corporate,West,Mumbai,Furniture,Bookcases,3,763.83,0.3,14.14
+ORD-10756,2024-03-20,2024-03-21,First Class,CUST-1093,Hemani Dhingra,Consumer,South,Chennai,Technology,Accessories,9,3848.94,0.0,-134.27
+ORD-10919,2024-02-06,2024-02-11,Same Day,CUST-1064,Aishani Sharma,Corporate,North,Jaipur,Furniture,Chairs,1,462.54,0.0,-23.85
+ORD-10534,2022-04-16,2022-04-17,First Class,CUST-1020,Varsha Bansal,Consumer,East,Bhubaneswar,Technology,Phones,7,1323.98,0.15,-91.84
+ORD-10013,2024-08-31,2024-09-05,Second Class,CUST-1124,Madhav Sathe,Home Office,North,Chandigarh,Technology,Accessories,3,419.64,0.3,50.81
+ORD-10509,2022-06-14,2022-06-21,Second Class,CUST-1014,Garima Kanda,Home Office,North,Lucknow,Office Supplies,Labels,8,3060.96,0.0,586.19
+ORD-10788,2022-10-14,2022-10-17,Standard Class,CUST-1068,Kala Thaker,Consumer,North,Chandigarh,Office Supplies,Art,7,89.95,0.3,13.8
+ORD-10075,2024-07-21,2024-07-24,Second Class,CUST-1114,Bahadurjit Varughese,Corporate,West,Surat,Office Supplies,Storage,4,1962.32,0.0,308.69
+ORD-10071,2024-06-16,2024-06-22,Second Class,CUST-1052,Nilima Buch,Home Office,East,Bhubaneswar,Technology,Accessories,8,556.0,0.2,77.39
+ORD-10675,2024-05-24,2024-05-30,Same Day,CUST-1005,Falguni Manne,Corporate,East,Kolkata,Technology,Copiers,1,428.39,0.0,40.55
+ORD-10140,2023-04-29,2023-05-06,Second Class,CUST-1036,Gaurang Dave,Home Office,West,Mumbai,Furniture,Tables,6,1124.7,0.15,-81.67
+ORD-10570,2022-09-09,2022-09-11,First Class,CUST-1093,Hemani Dhingra,Home Office,South,Coimbatore,Office Supplies,Paper,7,2557.45,0.0,624.45
+ORD-10800,2024-08-29,2024-09-05,Second Class,CUST-1114,Bahadurjit Varughese,Corporate,North,Lucknow,Furniture,Bookcases,4,1085.76,0.0,-87.17
+ORD-10518,2024-05-02,2024-05-08,First Class,CUST-1001,Yochana Kalla,Home Office,North,Lucknow,Furniture,Chairs,8,2794.08,0.0,-99.5
+ORD-10422,2022-08-05,2022-08-12,Same Day,CUST-1168,Netra Lata,Consumer,South,Coimbatore,Technology,Accessories,10,1854.0,0.1,360.66
+ORD-10635,2023-04-04,2023-04-08,Standard Class,CUST-1086,Vinaya Gola,Home Office,West,Mumbai,Furniture,Tables,5,2484.45,0.3,104.1
+ORD-10175,2023-03-25,2023-03-27,First Class,CUST-1030,Waida Aggarwal,Corporate,East,Patna,Office Supplies,Labels,8,680.48,0.2,187.8
+ORD-10626,2023-03-05,2023-03-09,Second Class,CUST-1028,Quincy Munshi,Consumer,North,Delhi,Technology,Accessories,3,985.11,0.1,247.31
+ORD-10420,2024-01-10,2024-01-15,First Class,CUST-1053,Jairaj Bhardwaj,Home Office,West,Mumbai,Furniture,Furnishings,7,2889.53,0.3,442.55
+ORD-10251,2024-11-08,2024-11-09,Same Day,CUST-1040,Chaitanya Srinivasan,Corporate,East,Patna,Furniture,Chairs,1,430.76,0.0,4.33
+ORD-10453,2022-03-31,2022-04-07,Second Class,CUST-1130,Atharv Karpe,Consumer,South,Coimbatore,Office Supplies,Labels,3,1371.0,0.15,340.38
+ORD-10735,2024-04-17,2024-04-18,Same Day,CUST-1095,,Corporate,West,Mumbai,Office Supplies,Storage,2,397.12,0.15,-9.09
+ORD-10804,2023-09-14,2023-09-21,Second Class,CUST-1178,Ishaan Shukla,Consumer,North,Lucknow,Technology,Copiers,4,620.88,0.0,92.18
+ORD-10426,2022-07-13,2022-07-14,Second Class,CUST-1080,Saumya Samra,Consumer,North,Chandigarh,Technology,Machines,8,1474.16,0.0,28.37
+ORD-10168,2022-11-20,2022-11-24,First Class,CUST-1120,Amruta Kala,Corporate,North,Delhi,Technology,Accessories,8,1951.6,0.0,468.7
+ORD-10700,2023-01-26,2023-02-01,First Class,CUST-1050,Tanmayi Saha,Consumer,East,Bhubaneswar,Office Supplies,Storage,10,4990.2,0.3,833.37
+ORD-10135,2023-02-13,2023-02-14,Same Day,CUST-1117,Deepa Doctor,Corporate,North,Delhi,Office Supplies,Paper,6,2804.1,0.15,188.77
+ORD-10945,2023-04-12,2023-04-13,First Class,CUST-1175,Vasatika Hegde,Home Office,West,Mumbai,Technology,Machines,5,2439.45,0.0,500.76
+ORD-10247,2024-06-14,2024-06-20,Standard Class,CUST-1083,Oeshi Pai,Corporate,West,Ahmedabad,Technology,Phones,4,153.48,0.0,48.51
+ORD-10696,2023-03-24,2023-03-27,First Class,CUST-1056,Owen Kala,Corporate,South,Coimbatore,Office Supplies,Paper,7,3118.29,0.15,-77.54
+ORD-10072,2022-07-10,2022-07-12,Second Class,CUST-1040,Chaitanya Srinivasan,Corporate,East,Guwahati,Technology,Phones,2,472.22,0.0,90.42
+ORD-10173,2023-04-28,2023-05-02,Standard Class,CUST-1082,Bhavini Balay,Corporate,South,Coimbatore,Furniture,Bookcases,5,2387.4,0.0,387.02
+ORD-10585,2024-08-15,2024-08-18,Same Day,CUST-1132,,Home Office,South,Bengaluru,Technology,Copiers,9,3657.42,0.3,630.07
+ORD-10211,2024-03-26,2024-03-29,Second Class,CUST-1082,Bhavini Balay,Corporate,South,Bengaluru,Office Supplies,Storage,5,1850.45,0.2,179.05
+ORD-10187,2023-04-07,2023-04-10,Same Day,CUST-1076,Triveni Naidu,Home Office,West,Pune,Furniture,Furnishings,3,1214.49,0.0,185.91
+ORD-10664,2024-04-13,2024-04-17,Second Class,CUST-1141,Pranit Krishna,Corporate,North,Lucknow,Furniture,Tables,2,849.36,0.15,-6.1
+ORD-10755,2022-01-04,2022-01-07,Same Day,CUST-1029,Banjeet Krishna,Corporate,East,Guwahati,Furniture,Bookcases,1,299.13,0.0,84.12
+ORD-10533,2024-05-22,2024-05-29,Second Class,CUST-1176,Devika Contractor,Home Office,East,Bhubaneswar,Technology,Phones,5,1760.25,0.15,215.6
+ORD-10541,2023-04-10,2023-04-14,Second Class,CUST-1077,Lavanya Sheth,Corporate,South,Hyderabad,Office Supplies,Paper,6,2913.9,0.3,572.11
+ORD-10074,2022-01-06,2022-01-09,Same Day,CUST-1070,Ekapad Ravel,Consumer,West,Ahmedabad,Office Supplies,Labels,5,2101.8,0.15,624.4
+ORD-10053,2023-10-23,2023-10-30,Same Day,CUST-1137,Meera Kala,Consumer,West,Ahmedabad,Office Supplies,Art,4,1668.24,0.0,42.57
+ORD-10219,2024-08-04,2024-08-06,Same Day,CUST-1044,Oni Datta,Corporate,South,Coimbatore,Office Supplies,Labels,7,2230.06,0.0,419.73
+ORD-10225,2023-10-07,2023-10-14,Standard Class,CUST-1042,Baljiwan Sundaram,Corporate,West,Pune,Office Supplies,Paper,8,2508.08,0.3,108.09
+ORD-10942,2024-08-05,2024-08-06,Same Day,CUST-1078,Ayaan Gola,Home Office,East,Guwahati,Office Supplies,Paper,8,114.8,0.0,38.42
+ORD-10827,2024-07-19,2024-07-24,Second Class,CUST-1044,Oni Datta,Corporate,South,Coimbatore,Furniture,Furnishings,5,2301.9,0.15,73.79
+ORD-10458,2022-03-15,2022-03-16,Same Day,CUST-1072,Ganga Kalla,Home Office,South,Hyderabad,Office Supplies,Labels,5,840.9,0.1,203.67
+ORD-10406,2023-01-16,2023-01-17,Standard Class,CUST-1082,Bhavini Balay,Consumer,North,Delhi,Furniture,Chairs,5,709.55,0.2,55.22
+ORD-10572,2022-07-23,2022-07-29,Second Class,CUST-1127,Laban Sarkar,Corporate,South,Chennai,Technology,Accessories,1,416.85,0.1,76.96
+ORD-10186,2023-12-07,2023-12-13,Same Day,CUST-1173,Laksh Bandi,Consumer,West,Mumbai,Technology,Copiers,7,2765.28,0.0,589.94
+ORD-10020,2023-08-08,2023-08-12,First Class,CUST-1097,Manya Trivedi,Consumer,North,Jaipur,Office Supplies,Storage,9,3008.88,0.1,-82.16
+ORD-10640,2024-04-26,2024-04-30,First Class,CUST-1135,Yagnesh Balasubramanian,Consumer,West,Surat,Furniture,Tables,8,3811.2,0.15,834.41
+ORD-10879,2023-11-06,2023-11-12,Second Class,CUST-1028,Quincy Munshi,Consumer,North,Lucknow,Office Supplies,Binders,10,3979.0,0.1,76.85
+ORD-10149,2022-02-28,2022-03-01,Second Class,CUST-1148,Eta Acharya,Home Office,South,Chennai,Furniture,Bookcases,1,474.79,0.3,53.03
+ORD-10622,2024-10-28,2024-10-29,Second Class,CUST-1145,,Corporate,East,Kolkata,Office Supplies,Storage,2,745.7,0.1,-12.89
+ORD-10523,2022-03-01,2022-03-05,First Class,CUST-1026,Baghyawati Batta,Corporate,North,Chandigarh,Technology,Accessories,9,601.83,0.0,135.19
+ORD-10246,2022-11-09,2022-11-12,Second Class,CUST-1073,Gayathri Palla,Home Office,West,Mumbai,Office Supplies,Art,2,323.7,0.15,86.51
+ORD-10224,2023-01-16,2023-01-20,Second Class,CUST-1152,Tanvi Patel,Home Office,South,Coimbatore,Technology,Copiers,9,3148.02,0.2,802.9
+ORD-10580,2022-02-15,2022-02-18,Same Day,CUST-1131,Vrishti Dasgupta,Consumer,West,Surat,Office Supplies,Binders,7,2026.29,0.0,319.43
+ORD-10670,2024-06-30,2024-07-06,First Class,CUST-1137,Meera Kala,Corporate,North,Delhi,Technology,Phones,2,365.94,0.3,17.77
+ORD-10598,2022-10-06,2022-10-07,Standard Class,CUST-1007,Frado Wagle,Consumer,North,Jaipur,Technology,Accessories,7,756.28,0.0,31.14
+ORD-10331,2024-10-18,2024-10-19,Same Day,CUST-1172,Xavier Nayak,Home Office,North,Chandigarh,Office Supplies,Art,9,3336.66,0.15,910.09
+ORD-10624,2024-06-07,2024-06-12,Same Day,CUST-1047,Nihal Warrior,Corporate,North,Delhi,Technology,Machines,1,12.87,0.0,-1.21
+ORD-10397,2022-06-13,2022-06-15,Same Day,CUST-1047,Nihal Warrior,Home Office,North,Lucknow,Furniture,Tables,3,613.65,0.0,-43.75
+ORD-10872,2023-08-04,2023-08-09,Standard Class,CUST-1119,Siya Oak,Home Office,East,Guwahati,Furniture,Chairs,4,1073.44,0.0,163.63
+ORD-10061,2022-11-02,2022-11-09,Standard Class,CUST-1125,Qarin Chandran,Home Office,North,Chandigarh,Technology,Phones,10,4750.7,0.0,1649.74
+ORD-10930,2023-12-22,2023-12-24,Standard Class,CUST-1035,Michael Vig,Home Office,North,Lucknow,Office Supplies,Binders,6,1343.4,0.0,9.64
+ORD-10875,2023-11-22,2023-11-28,Same Day,CUST-1072,Ganga Kalla,Home Office,South,Chennai,Office Supplies,Binders,1,44.03,0.0,12.04
+ORD-10213,2024-10-19,2024-10-21,Same Day,CUST-1053,Jairaj Bhardwaj,Corporate,West,Surat,Office Supplies,Binders,5,642.95,0.2,-15.76
+ORD-10400,2022-10-04,2022-10-10,Same Day,CUST-1121,Varsha Prashad,Home Office,West,Surat,Technology,Machines,9,870.75,0.15,78.04
+ORD-10673,2022-12-16,2022-12-21,Second Class,CUST-1050,Tanmayi Saha,Consumer,West,Surat,Furniture,Bookcases,4,1333.28,0.15,229.47
+ORD-10197,2022-08-08,2022-08-09,First Class,CUST-1073,Gayathri Palla,Corporate,North,Chandigarh,Technology,Copiers,9,746.64,0.0,133.57
+ORD-10543,2023-02-25,2023-03-02,Same Day,CUST-1032,Azaan Kohli,Home Office,West,Pune,Office Supplies,Storage,1,336.12,0.0,-11.23
+ORD-10266,2022-05-05,2022-05-06,Second Class,CUST-1075,Thomas Joshi,Home Office,West,Surat,Office Supplies,Labels,5,988.4,0.1,-9.11
+ORD-10978,2022-06-06,2022-06-07,Standard Class,CUST-1102,Meera Purohit,Consumer,South,Chennai,Technology,Machines,9,3274.56,0.3,526.49
+ORD-10346,2023-03-13,2023-03-20,Same Day,CUST-1042,Baljiwan Sundaram,Home Office,North,Chandigarh,Technology,Phones,7,2936.36,0.0,416.93
+ORD-10803,2024-03-10,2024-03-14,Second Class,CUST-1175,Vasatika Hegde,Home Office,North,Jaipur,Furniture,Furnishings,10,1430.3,0.0,-140.71
+ORD-10016,2022-09-28,2022-10-04,Same Day,CUST-1060,Jonathan Dugar,Consumer,East,Patna,Technology,Copiers,10,2923.4,0.0,739.85
+ORD-10619,2022-03-24,2022-03-29,Second Class,CUST-1047,Nihal Warrior,Corporate,West,Mumbai,Technology,Copiers,6,2921.4,0.2,2.11
+ORD-10003,2024-02-15,2024-02-16,First Class,CUST-1067,Rohan Lanka,Home Office,North,Delhi,Technology,Copiers,9,1382.94,0.2,197.3
+ORD-10762,2022-10-30,2022-11-03,Standard Class,CUST-1166,Triya Khurana,Corporate,North,Delhi,Office Supplies,Labels,7,2400.51,0.0,760.23
+ORD-10369,2024-12-24,2024-12-29,Standard Class,CUST-1155,Sudiksha Roy,Home Office,North,Delhi,Furniture,Furnishings,2,111.32,0.2,-3.68
+ORD-10642,2024-05-08,2024-05-12,First Class,CUST-1169,Oviya Arora,Consumer,South,Hyderabad,Technology,Phones,9,3942.36,0.2,738.68
+ORD-10575,2023-09-13,2023-09-19,Same Day,CUST-1113,Tristan Lad,Corporate,West,Pune,Furniture,Chairs,3,752.49,0.0,30.56
+ORD-10630,2022-05-11,2022-05-14,First Class,CUST-1015,Nidhi Gara,Corporate,North,Lucknow,Office Supplies,Labels,7,3119.76,0.0,382.65
+ORD-10861,2022-04-16,2022-04-19,Standard Class,CUST-1137,Meera Kala,Consumer,South,Hyderabad,Technology,Copiers,2,936.28,0.2,-67.1
+ORD-10636,2024-06-15,2024-06-22,Standard Class,CUST-1068,Kala Thaker,Home Office,South,Chennai,Technology,Phones,8,3853.6,0.3,-135.09
+ORD-10733,2024-07-17,2024-07-20,Second Class,CUST-1044,Oni Datta,Home Office,East,Bhubaneswar,Office Supplies,Art,7,1998.15,0.1,-121.62
+ORD-10056,2023-03-30,2023-04-03,First Class,CUST-1125,Qarin Chandran,Corporate,West,Ahmedabad,Furniture,Chairs,4,640.16,0.15,35.95
+ORD-10328,2022-07-19,2022-07-26,First Class,CUST-1168,Netra Lata,Home Office,East,Kolkata,Technology,Copiers,4,44.32,0.0,12.12
+ORD-10256,2023-02-25,2023-03-02,Second Class,CUST-1000,Abha Venkataraman,Home Office,West,Mumbai,Technology,Machines,4,862.84,0.0,291.34
+ORD-10437,2024-08-10,2024-08-16,First Class,CUST-1015,Nidhi Gara,Consumer,East,Kolkata,Furniture,Bookcases,1,42.63,0.2,0.75
+ORD-10090,2022-10-14,2022-10-15,Second Class,CUST-1118,Bina Buch,Home Office,East,Kolkata,Technology,Copiers,1,159.14,0.1,-6.84
+ORD-10757,2022-03-12,2022-03-17,Same Day,CUST-1127,Laban Sarkar,Home Office,West,Pune,Furniture,Bookcases,6,968.16,0.2,-34.42
+ORD-10123,2022-12-06,2022-12-12,Second Class,CUST-1033,Keya Naidu,Corporate,West,Pune,Furniture,Tables,8,251.28,0.0,51.35
+ORD-10798,2024-01-09,2024-01-15,First Class,CUST-1024,Ishwar Dash,Consumer,North,Lucknow,Technology,Accessories,6,2244.24,0.15,263.23
+ORD-10911,2022-10-27,2022-11-02,Second Class,CUST-1174,Triya Nayar,Consumer,West,Surat,Technology,Phones,1,100.56,0.3,16.55
+ORD-10125,2024-10-26,2024-10-31,Second Class,CUST-1173,Laksh Bandi,Corporate,West,Surat,Office Supplies,Storage,7,3384.29,0.3,-24.01
+ORD-10782,2024-12-30,2025-01-05,Standard Class,CUST-1003,Arya Chaudhry,Home Office,South,Coimbatore,Technology,Phones,6,778.02,0.2,122.94
+ORD-10236,2022-09-12,2022-09-19,Same Day,CUST-1012,Aachal Dhawan,Consumer,North,Delhi,Furniture,Furnishings,3,678.69,0.0,235.05
+ORD-10984,2024-04-12,2024-04-19,Same Day,CUST-1079,Zayan Sangha,Home Office,East,Bhubaneswar,Furniture,Chairs,1,141.39,0.0,33.9
+ORD-10105,2022-10-18,2022-10-24,Same Day,CUST-1046,Nathaniel Chakraborty,Corporate,South,Chennai,Technology,Copiers,1,54.96,0.15,-0.15
+ORD-10015,2022-05-26,2022-06-01,Standard Class,CUST-1150,Aarav Buch,Home Office,South,Chennai,Technology,Accessories,1,122.18,0.0,35.05
+ORD-10565,2024-06-19,2024-06-25,Same Day,CUST-1129,Jonathan Oza,Consumer,West,Pune,Office Supplies,Labels,2,197.24,0.0,67.37
+ORD-10643,2023-02-25,2023-03-02,First Class,CUST-1071,Rushil Sharaf,Home Office,South,Coimbatore,Technology,Copiers,10,3962.9,0.2,313.75
+ORD-10067,2022-02-12,2022-02-19,Same Day,CUST-1082,Bhavini Balay,Home Office,East,Patna,Furniture,Chairs,5,1461.8,0.3,245.91
+ORD-10165,2023-08-13,2023-08-14,Same Day,CUST-1125,Qarin Chandran,Corporate,East,Bhubaneswar,Office Supplies,Storage,10,3415.4,0.1,931.66
+ORD-10835,2024-07-05,2024-07-12,Same Day,CUST-1174,Triya Nayar,Consumer,South,Hyderabad,Technology,Accessories,3,528.36,0.0,95.4
+ORD-10364,2022-11-04,2022-11-06,Second Class,CUST-1042,Baljiwan Sundaram,Corporate,South,Bengaluru,Furniture,Bookcases,3,562.47,0.2,120.43
+ORD-10470,2022-01-09,2022-01-12,First Class,CUST-1009,Omya Sharma,Corporate,West,Mumbai,Office Supplies,Labels,1,346.66,0.15,86.14
+ORD-10089,2022-02-21,2022-02-26,Standard Class,CUST-1097,Manya Trivedi,Home Office,East,Guwahati,Furniture,Tables,9,1536.48,0.15,-0.5
+ORD-10906,2023-08-24,2023-08-25,Same Day,CUST-1077,Lavanya Sheth,Consumer,South,Bengaluru,Technology,Machines,7,501.97,0.2,-39.08
+ORD-10892,2022-12-16,2022-12-22,Same Day,CUST-1085,Unni Radhakrishnan,Consumer,North,Delhi,Furniture,Bookcases,1,301.06,0.1,44.01
+ORD-10653,2022-04-10,2022-04-13,Standard Class,CUST-1124,Madhav Sathe,Consumer,North,Jaipur,Furniture,Tables,5,578.15,0.3,94.23
+ORD-10234,2024-07-27,2024-08-02,Second Class,CUST-1124,Madhav Sathe,Corporate,East,Kolkata,Technology,Phones,6,2559.3,0.3,251.69
+ORD-10852,2024-02-21,2024-02-24,Standard Class,CUST-1109,Kashvi Kara,Consumer,East,Guwahati,Furniture,Tables,7,2244.97,0.2,321.78
+ORD-10688,2024-03-30,2024-04-01,Standard Class,CUST-1123,Patrick Rama,Consumer,East,Patna,Technology,Copiers,1,187.78,0.0,11.46
+ORD-10821,2024-02-27,2024-02-28,Second Class,CUST-1107,Rayaan Patel,Home Office,West,Pune,Technology,Copiers,10,3603.1,0.15,490.16
+ORD-10442,2024-07-08,2024-07-13,Second Class,CUST-1061,Tanveer Taneja,Consumer,South,Hyderabad,Office Supplies,Storage,3,333.93,0.0,53.92
+ORD-10567,2024-02-28,2024-03-02,Same Day,CUST-1010,Charan Anand,Consumer,North,Delhi,Office Supplies,Art,8,2433.52,0.0,509.02
+ORD-10282,2023-08-27,2023-09-03,Second Class,CUST-1013,Lipika Suresh,Home Office,East,Kolkata,Furniture,Furnishings,10,2453.6,0.0,-216.94
+ORD-10199,2024-02-12,2024-02-17,Standard Class,CUST-1166,Triya Khurana,Corporate,North,Jaipur,Furniture,Furnishings,8,300.0,0.0,64.88
+ORD-10495,2023-01-06,2023-01-13,Second Class,CUST-1044,Oni Datta,Home Office,East,Guwahati,Technology,Accessories,9,3891.51,0.0,1334.14
+ORD-10404,2024-11-24,2024-12-01,First Class,CUST-1056,Owen Kala,Corporate,East,Patna,Furniture,Furnishings,10,4057.1,0.2,72.51
+ORD-10452,2022-07-06,2022-07-07,Same Day,CUST-1023,Logan Dutta,Home Office,East,Kolkata,Office Supplies,Paper,8,2565.6,0.0,348.2
+ORD-10883,2023-10-01,2023-10-07,Second Class,CUST-1124,,Consumer,North,Lucknow,Office Supplies,Paper,8,2648.72,0.3,235.53
+ORD-10380,2024-04-07,2024-04-12,Standard Class,CUST-1070,Ekapad Ravel,Home Office,South,Coimbatore,Technology,Accessories,1,137.94,0.1,15.87
+ORD-10477,2022-03-03,2022-03-04,Second Class,CUST-1046,Nathaniel Chakraborty,Corporate,East,Guwahati,Office Supplies,Art,8,522.48,0.1,50.58
+ORD-10670,2024-06-30,2024-07-06,First Class,CUST-1137,Meera Kala,Corporate,North,Delhi,Technology,Phones,2,365.94,0.3,17.77
+ORD-10672,2024-10-08,2024-10-11,Second Class,CUST-1023,Logan Dutta,Consumer,East,Patna,Technology,Accessories,1,147.57,0.2,25.75
+ORD-10982,2023-09-29,2023-10-02,Second Class,CUST-1059,Hiral Basak,Consumer,West,Mumbai,Office Supplies,Art,3,1220.22,0.0,-69.64
+ORD-10850,2024-01-16,2024-01-17,Standard Class,CUST-1089,Ojasvi Shanker,Home Office,South,Hyderabad,Furniture,Chairs,5,2246.8,0.15,512.92
+ORD-10320,2022-12-08,2022-12-09,Second Class,CUST-1116,Bhavya Sankaran,Consumer,East,Guwahati,Office Supplies,Art,3,1053.36,0.0,359.94
+ORD-10888,2022-08-16,2022-08-18,Second Class,CUST-1110,Vritti Merchant,Consumer,North,Chandigarh,Technology,Phones,2,72.08,0.0,11.45
+ORD-10561,2022-06-09,2022-06-10,Standard Class,CUST-1053,Jairaj Bhardwaj,Home Office,South,Chennai,Furniture,Furnishings,8,3048.72,0.0,-35.49
+ORD-10127,2023-12-17,2023-12-18,Same Day,CUST-1037,Patrick Shanker,Consumer,West,Surat,Furniture,Tables,7,252.7,0.15,14.67
+ORD-10485,2023-10-14,2023-10-20,Second Class,CUST-1072,Ganga Kalla,Corporate,North,Jaipur,Furniture,Furnishings,7,1462.72,0.1,191.28
+ORD-10928,2024-11-05,2024-11-07,Second Class,CUST-1069,Alexander Sarkar,Consumer,North,Jaipur,Furniture,Chairs,6,1328.64,0.0,334.41
+ORD-10737,2024-07-21,2024-07-27,Second Class,CUST-1173,Laksh Bandi,Consumer,North,Lucknow,Technology,Accessories,3,403.8,0.15,55.0
+ORD-10209,2023-05-31,2023-06-02,Second Class,CUST-1107,Rayaan Patel,Corporate,East,Bhubaneswar,Office Supplies,Binders,8,2407.76,0.0,255.31
+ORD-10374,2023-06-04,2023-06-07,Second Class,CUST-1105,Zehaan Dubey,Home Office,West,Surat,Furniture,Bookcases,10,1787.3,0.2,113.18
+ORD-10292,2022-10-03,2022-10-06,Same Day,CUST-1071,Rushil Sharaf,Home Office,West,Pune,Technology,Phones,8,3114.24,0.0,66.14
+ORD-10306,2022-04-21,2022-04-28,Same Day,CUST-1030,Waida Aggarwal,Consumer,West,Surat,Technology,Machines,3,231.93,0.0,12.57
+ORD-10659,2024-10-03,2024-10-10,First Class,CUST-1136,Rachita Bala,Corporate,East,Kolkata,Office Supplies,Labels,1,176.58,0.0,15.31
+ORD-10257,2024-02-02,2024-02-06,Same Day,CUST-1071,Rushil Sharaf,Consumer,North,Jaipur,Furniture,Tables,2,589.16,0.15,-19.99
+ORD-10312,2024-02-08,2024-02-14,Standard Class,CUST-1005,Falguni Manne,Home Office,South,Chennai,Furniture,Bookcases,5,1939.55,0.15,-128.82
+ORD-10070,2022-04-22,2022-04-24,Same Day,CUST-1103,Isaiah Chawla,Consumer,North,Jaipur,Technology,Copiers,9,1685.43,0.3,146.68
+ORD-10914,2024-08-16,2024-08-22,Second Class,CUST-1165,Upasna Kumer,Corporate,West,Pune,Furniture,Bookcases,8,1165.44,0.0,71.08
+ORD-10869,2023-02-14,2023-02-19,Same Day,CUST-1159,Matthew Sarin,Consumer,North,Jaipur,Technology,Copiers,6,1159.44,0.2,249.24
+ORD-10014,2024-02-04,2024-02-08,First Class,CUST-1176,Devika Contractor,Consumer,South,Coimbatore,Technology,Machines,9,2081.07,0.0,2.32
+ORD-10521,2022-08-19,2022-08-26,Second Class,CUST-1160,Faraj Apte,Home Office,South,Bengaluru,Office Supplies,Binders,3,1037.31,0.1,115.65
+ORD-10662,2023-05-06,2023-05-13,Same Day,CUST-1066,Girindra Bhavsar,Consumer,West,Pune,Furniture,Chairs,10,2971.5,0.1,344.67
+ORD-10210,2023-11-06,2023-11-10,Second Class,CUST-1001,Yochana Kalla,Corporate,West,Surat,Office Supplies,Labels,6,1326.0,0.3,266.19
+ORD-10904,2024-12-14,2024-12-18,Same Day,CUST-1046,Nathaniel Chakraborty,Corporate,West,Pune,Office Supplies,Binders,6,1541.22,0.2,272.08
+ORD-10214,2024-12-30,2025-01-04,Standard Class,CUST-1018,Victor Dube,Consumer,West,Surat,Technology,Copiers,7,1934.73,0.3,454.77
+ORD-10961,2023-04-20,2023-04-26,Second Class,CUST-1043,Tanay Khurana,Consumer,East,Kolkata,Office Supplies,Labels,5,395.45,0.0,58.71
+ORD-10297,2022-04-12,2022-04-14,Second Class,CUST-1176,Devika Contractor,Home Office,North,Jaipur,Office Supplies,Binders,10,3921.2,0.0,1120.29
+ORD-10627,2022-02-14,2022-02-15,Same Day,CUST-1077,,Corporate,West,Surat,Furniture,Furnishings,3,1356.54,0.2,234.59
+ORD-10620,2022-06-12,2022-06-19,First Class,CUST-1134,Jai Randhawa,Consumer,North,Jaipur,Office Supplies,Art,8,1257.52,0.0,261.49
+ORD-10464,2023-11-24,2023-11-30,Second Class,CUST-1101,Aarnav Barad,Corporate,North,Lucknow,Furniture,Tables,8,3671.36,0.3,-215.87
+ORD-10349,2024-01-03,2024-01-08,Standard Class,CUST-1158,Tripti Hora,Corporate,North,Delhi,Technology,Phones,2,304.04,0.2,8.66
+ORD-10088,2024-03-19,2024-03-20,First Class,CUST-1173,Laksh Bandi,Home Office,West,Mumbai,Technology,Machines,5,1364.6,0.1,80.89
+ORD-10335,2024-09-10,2024-09-15,First Class,CUST-1138,Harita Mani,Corporate,East,Bhubaneswar,Technology,Phones,10,4719.1,0.2,331.72
+ORD-10237,2023-07-16,2023-07-17,Second Class,CUST-1176,Devika Contractor,Consumer,South,Bengaluru,Technology,Machines,6,796.14,0.0,158.45
+ORD-10390,2023-04-14,2023-04-21,Same Day,CUST-1102,Meera Purohit,Corporate,East,Patna,Office Supplies,Paper,2,726.4,0.3,3.11
+ORD-10171,2023-11-09,2023-11-11,First Class,CUST-1129,Jonathan Oza,Corporate,West,Mumbai,Office Supplies,Paper,8,2621.28,0.2,-33.99
+ORD-10601,2024-04-01,2024-04-06,First Class,CUST-1118,Bina Buch,Consumer,South,Chennai,Office Supplies,Paper,7,2129.33,0.0,-127.59
+ORD-10272,2022-05-02,2022-05-03,First Class,CUST-1051,Ikshita Acharya,Consumer,South,Hyderabad,Office Supplies,Paper,3,892.32,0.0,221.71
+ORD-10789,2023-11-10,2023-11-11,First Class,CUST-1072,Ganga Kalla,Consumer,North,Jaipur,Furniture,Furnishings,3,1009.32,0.1,301.46
+ORD-10147,2022-09-12,2022-09-17,Second Class,CUST-1163,Tamanna Mangal,Corporate,South,Chennai,Furniture,Furnishings,3,477.06,0.0,21.56
+ORD-10204,2023-01-16,2023-01-22,First Class,CUST-1058,Upasna Kalla,Consumer,East,Guwahati,Technology,Copiers,10,3337.3,0.0,825.9
+ORD-10160,2023-09-23,2023-09-30,Second Class,CUST-1094,Vritti Shah,Home Office,East,Guwahati,Technology,Phones,1,302.49,0.0,101.39
+ORD-10293,2024-04-13,2024-04-19,Standard Class,CUST-1165,Upasna Kumer,Home Office,North,Chandigarh,Furniture,Furnishings,8,3057.2,0.3,146.08
+ORD-10699,2023-07-21,2023-07-23,Second Class,CUST-1019,Yauvani Kannan,Corporate,East,Kolkata,Furniture,Bookcases,2,136.22,0.0,-11.28
+ORD-10506,2023-05-29,2023-06-05,Standard Class,CUST-1066,Girindra Bhavsar,Consumer,North,Delhi,Furniture,Chairs,8,153.52,0.1,-4.56
+ORD-10413,2024-09-26,2024-09-28,First Class,CUST-1091,Tanmayi Amble,Corporate,South,Bengaluru,Technology,Phones,6,2946.12,0.3,392.02
+ORD-10593,2024-05-17,2024-05-21,First Class,CUST-1136,Rachita Bala,Corporate,East,Bhubaneswar,Technology,Phones,4,1928.08,0.3,434.1
+ORD-10401,2022-07-03,2022-07-07,Standard Class,CUST-1163,Tamanna Mangal,Consumer,East,Patna,Office Supplies,Art,5,946.15,0.0,-28.32
+ORD-10824,2024-02-01,2024-02-02,Second Class,CUST-1036,Gaurang Dave,Consumer,West,Surat,Technology,Phones,2,669.5,0.0,76.71
+ORD-10596,2022-03-11,2022-03-14,Same Day,CUST-1041,Idika Kumer,Corporate,West,Surat,Technology,Machines,2,826.74,0.1,83.33
+ORD-10754,2022-08-25,2022-08-28,Second Class,CUST-1164,Dakshesh Mistry,Home Office,West,Ahmedabad,Furniture,Tables,2,129.16,0.0,30.13
+ORD-10371,2024-09-04,2024-09-11,Same Day,CUST-1150,Aarav Buch,Corporate,North,Lucknow,Office Supplies,Paper,4,1823.76,0.0,50.1
+ORD-10953,2023-08-11,2023-08-14,Second Class,CUST-1062,Zaitra Vala,Home Office,West,Ahmedabad,Technology,Accessories,6,406.8,0.1,32.75
+ORD-10285,2023-04-11,2023-04-16,Same Day,CUST-1178,Ishaan Shukla,Home Office,North,Jaipur,Furniture,Bookcases,1,421.99,0.3,39.93
+ORD-10428,2022-04-25,2022-05-02,Standard Class,CUST-1164,Dakshesh Mistry,Consumer,East,Kolkata,Furniture,Furnishings,6,1082.94,0.3,72.35
+ORD-10549,2024-06-25,2024-06-28,Same Day,CUST-1022,Chakradhar Balasubramanian,Consumer,South,Coimbatore,Technology,Copiers,3,1214.34,0.1,249.04
+ORD-10418,2022-03-31,2022-04-07,Same Day,CUST-1164,Dakshesh Mistry,Consumer,East,Kolkata,Furniture,Chairs,3,292.59,0.0,-2.65
+ORD-10634,2024-01-05,2024-01-08,Standard Class,CUST-1077,Lavanya Sheth,Consumer,South,Chennai,Furniture,Chairs,6,2050.14,0.0,558.82
+ORD-10939,2024-12-31,2025-01-04,First Class,CUST-1014,Garima Kanda,Consumer,North,Lucknow,Technology,Copiers,7,2034.06,0.15,425.42
+ORD-10796,2024-05-06,2024-05-08,Standard Class,CUST-1028,Quincy Munshi,Home Office,East,Bhubaneswar,Office Supplies,Storage,6,2691.6,0.0,-219.63
+ORD-10296,2022-12-30,2023-01-06,First Class,CUST-1007,Frado Wagle,Home Office,South,Coimbatore,Office Supplies,Art,8,2380.56,0.0,130.72
+ORD-10113,2023-12-21,2023-12-27,Second Class,CUST-1019,Yauvani Kannan,Home Office,North,Lucknow,Technology,Accessories,3,377.31,0.0,5.73
+ORD-10777,2023-07-10,2023-07-15,Same Day,CUST-1125,Qarin Chandran,Consumer,North,Lucknow,Technology,Machines,2,898.64,0.0,38.73
+ORD-10969,2024-09-12,2024-09-15,Same Day,CUST-1074,Henry Narain,Corporate,West,Ahmedabad,Office Supplies,Art,2,234.56,0.3,40.03
+ORD-10667,2022-09-09,2022-09-16,Second Class,CUST-1136,Rachita Bala,Home Office,North,Jaipur,Office Supplies,Binders,3,1095.87,0.0,323.53
+ORD-10595,2024-03-15,2024-03-18,First Class,CUST-1031,Falguni Baria,Consumer,South,Chennai,Office Supplies,Art,5,271.1,0.3,45.64
+ORD-10126,2024-11-22,2024-11-29,Same Day,CUST-1013,Lipika Suresh,Home Office,West,Mumbai,Office Supplies,Labels,2,299.36,0.3,-5.84
+ORD-10387,2022-03-08,2022-03-13,Same Day,CUST-1056,Owen Kala,Consumer,South,Coimbatore,Furniture,Furnishings,6,1217.52,0.2,242.68
+ORD-10384,2023-01-25,2023-01-29,Second Class,CUST-1080,Saumya Samra,Consumer,East,Patna,Furniture,Bookcases,4,500.32,0.0,146.46
+ORD-10841,2024-08-04,2024-08-10,Same Day,CUST-1145,Amol Thaker,Consumer,West,Surat,Furniture,Tables,2,361.96,0.1,61.61
+ORD-10502,2022-06-26,2022-07-03,Second Class,CUST-1152,,Consumer,South,Chennai,Technology,Phones,10,736.5,0.2,143.61
+ORD-10290,2024-09-21,2024-09-26,Second Class,CUST-1137,Meera Kala,Home Office,East,Guwahati,Office Supplies,Storage,10,2417.9,0.0,57.88
+ORD-10023,2023-05-04,2023-05-07,First Class,CUST-1168,Netra Lata,Consumer,East,Bhubaneswar,Office Supplies,Paper,7,518.91,0.2,14.53
+ORD-10425,2022-02-03,2022-02-08,Second Class,CUST-1101,Aarnav Barad,Consumer,North,Lucknow,Technology,Phones,3,1490.31,0.0,-144.63
+ORD-10360,2024-09-17,2024-09-20,First Class,CUST-1035,Michael Vig,Corporate,West,Pune,Furniture,Tables,1,117.22,0.1,0.45
+ORD-10884,2024-03-30,2024-04-01,Standard Class,CUST-1093,Hemani Dhingra,Consumer,West,Pune,Office Supplies,Labels,2,292.28,0.0,61.03
+ORD-10995,2024-02-29,2024-03-06,Standard Class,CUST-1128,Aarini Bala,Home Office,North,Jaipur,Furniture,Furnishings,8,1471.6,0.3,138.96
+ORD-10030,2022-02-20,2022-02-22,Second Class,CUST-1039,Leela Menon,Corporate,South,Coimbatore,Furniture,Tables,6,2360.22,0.1,554.43
+ORD-10927,2022-05-25,2022-05-29,Same Day,CUST-1126,Krishna Rajagopalan,Consumer,North,Lucknow,Technology,Phones,10,3722.5,0.0,1114.45
+ORD-10462,2024-04-27,2024-04-28,Standard Class,CUST-1160,Faraj Apte,Home Office,North,Jaipur,Technology,Accessories,6,1087.98,0.3,142.32
+ORD-10322,2022-05-10,2022-05-13,Second Class,CUST-1124,Madhav Sathe,Home Office,North,Delhi,Office Supplies,Art,6,96.36,0.3,13.83
+ORD-10298,2022-01-19,2022-01-23,Second Class,CUST-1052,Nilima Buch,Corporate,East,Kolkata,Technology,Copiers,3,981.63,0.15,217.26
+ORD-10311,2023-01-21,2023-01-23,Second Class,CUST-1175,Vasatika Hegde,Consumer,South,Hyderabad,Office Supplies,Art,7,135.59,0.0,30.81
+ORD-10712,2022-11-20,2022-11-23,Second Class,CUST-1046,Nathaniel Chakraborty,Corporate,North,Chandigarh,Office Supplies,Binders,9,1377.27,0.0,294.9
+ORD-10542,2023-01-09,2023-01-11,First Class,CUST-1072,Ganga Kalla,Home Office,West,Ahmedabad,Furniture,Tables,3,267.03,0.0,-21.76
+ORD-10603,2023-03-18,2023-03-25,Same Day,CUST-1126,Krishna Rajagopalan,Consumer,West,Pune,Furniture,Furnishings,5,1830.45,0.0,161.54
+ORD-10085,2022-10-08,2022-10-14,Same Day,CUST-1155,Sudiksha Roy,Consumer,East,Bhubaneswar,Furniture,Tables,2,905.34,0.2,-59.58
+ORD-10655,2024-07-08,2024-07-10,Same Day,CUST-1155,Sudiksha Roy,Corporate,South,Coimbatore,Furniture,Furnishings,6,322.56,0.15,54.57
+ORD-10498,2024-12-22,2024-12-29,First Class,CUST-1174,Triya Nayar,Home Office,West,Pune,Office Supplies,Storage,7,110.67,0.3,7.9
+ORD-10638,2024-01-15,2024-01-18,Same Day,CUST-1113,Tristan Lad,Consumer,West,Pune,Technology,Phones,3,210.78,0.0,20.57
+ORD-10033,2022-08-11,2022-08-16,Standard Class,CUST-1029,Banjeet Krishna,Corporate,East,Kolkata,Furniture,Bookcases,7,1255.73,0.3,36.18
+ORD-10412,2022-07-03,2022-07-05,Standard Class,CUST-1148,Eta Acharya,Consumer,West,Ahmedabad,Technology,Accessories,3,764.88,0.2,109.16
+ORD-10261,2022-07-06,2022-07-12,First Class,CUST-1178,Ishaan Shukla,Corporate,North,Chandigarh,Furniture,Bookcases,4,1938.08,0.1,228.6
+ORD-10399,2022-09-16,2022-09-18,First Class,CUST-1058,Upasna Kalla,Corporate,South,Coimbatore,Technology,Machines,9,3787.83,0.0,-318.86
+ORD-10545,2024-06-24,2024-06-27,Standard Class,CUST-1075,Thomas Joshi,Corporate,West,Pune,Office Supplies,Labels,2,737.0,0.0,-27.46
+ORD-10971,2023-08-19,2023-08-22,Standard Class,CUST-1125,Qarin Chandran,Home Office,West,Mumbai,Technology,Accessories,9,1038.6,0.3,183.41
+ORD-10510,2024-03-09,2024-03-10,Second Class,CUST-1010,Charan Anand,Consumer,West,Ahmedabad,Technology,Accessories,6,1490.34,0.2,115.76
+ORD-10597,2023-12-22,2023-12-26,Same Day,CUST-1108,Jackson Balan,Home Office,North,Delhi,Furniture,Bookcases,10,3673.2,0.15,724.37
+ORD-10155,2023-08-09,2023-08-14,First Class,CUST-1012,Aachal Dhawan,Home Office,East,Guwahati,Office Supplies,Labels,1,425.11,0.1,-15.2
+ORD-10455,2024-10-18,2024-10-23,Same Day,CUST-1000,Abha Venkataraman,Corporate,East,Guwahati,Furniture,Furnishings,1,307.91,0.1,1.95
+ORD-10751,2024-09-14,2024-09-20,Standard Class,CUST-1140,Nirja Swamy,Consumer,West,Mumbai,Furniture,Furnishings,9,1152.36,0.0,-26.86
+ORD-10327,2024-01-15,2024-01-22,Same Day,CUST-1143,Raagini Mall,Home Office,South,Hyderabad,Technology,Copiers,1,410.13,0.3,30.0
+ORD-10814,2022-02-13,2022-02-20,Same Day,CUST-1039,Leela Menon,Consumer,South,Chennai,Furniture,Bookcases,1,60.38,0.0,-3.25
+ORD-10351,2022-10-17,2022-10-18,Standard Class,CUST-1036,Gaurang Dave,Corporate,East,Kolkata,Technology,Machines,1,12.46,0.15,0.82
+ORD-10746,2023-11-08,2023-11-15,Second Class,CUST-1102,Meera Purohit,Consumer,West,Ahmedabad,Technology,Phones,2,23.02,0.3,3.45
+ORD-10571,2024-09-19,2024-09-24,First Class,CUST-1102,Meera Purohit,Corporate,East,Guwahati,Office Supplies,Labels,5,411.05,0.1,-19.01
+ORD-10487,2022-10-06,2022-10-07,Same Day,CUST-1165,Upasna Kumer,Home Office,North,Jaipur,Furniture,Furnishings,3,974.1,0.1,251.67
+ORD-10398,2022-08-01,2022-08-04,Same Day,CUST-1013,Lipika Suresh,Corporate,North,Delhi,Office Supplies,Labels,10,860.8,0.2,219.82
+ORD-10554,2024-09-11,2024-09-16,Standard Class,CUST-1030,Waida Aggarwal,Corporate,East,Bhubaneswar,Office Supplies,Binders,7,3048.43,0.2,508.87
+ORD-10336,2022-04-19,2022-04-25,First Class,CUST-1003,Arya Chaudhry,Home Office,North,Chandigarh,Furniture,Furnishings,1,107.95,0.3,19.15
+ORD-10430,2023-03-31,2023-04-04,Standard Class,CUST-1012,Aachal Dhawan,Corporate,West,Mumbai,Office Supplies,Labels,5,1976.6,0.0,-80.08
+ORD-10903,2023-02-13,2023-02-16,Same Day,CUST-1035,Michael Vig,Home Office,South,Coimbatore,Office Supplies,Paper,5,259.7,0.15,70.02
+ORD-10294,2022-10-05,2022-10-12,Second Class,CUST-1040,Chaitanya Srinivasan,Consumer,North,Jaipur,Office Supplies,Labels,9,3967.83,0.0,-86.57
+ORD-10065,2022-11-02,2022-11-05,First Class,CUST-1160,Faraj Apte,Corporate,South,Bengaluru,Office Supplies,Binders,3,134.97,0.0,34.64
+ORD-10594,2023-05-06,2023-05-09,First Class,CUST-1094,Vritti Shah,Home Office,East,Kolkata,Furniture,Chairs,9,1786.5,0.2,473.52
+ORD-10676,2023-04-05,2023-04-06,Standard Class,CUST-1031,Falguni Baria,Corporate,West,Mumbai,Office Supplies,Storage,5,2300.05,0.15,199.39
+ORD-10018,2023-01-25,2023-01-30,Second Class,CUST-1103,Isaiah Chawla,Consumer,East,Patna,Furniture,Tables,8,629.52,0.0,15.96
+ORD-10230,2022-10-13,2022-10-20,First Class,CUST-1150,Aarav Buch,Home Office,East,Patna,Technology,Copiers,4,1634.52,0.3,-83.85
+ORD-10226,2024-04-17,2024-04-23,Second Class,CUST-1034,Tara Dhawan,Consumer,South,Coimbatore,Office Supplies,Labels,8,1709.28,0.3,119.33
+ORD-10818,2022-06-06,2022-06-13,Second Class,CUST-1026,Baghyawati Batta,Corporate,East,Bhubaneswar,Office Supplies,Storage,1,432.24,0.0,108.06
+ORD-10473,2023-05-17,2023-05-19,Standard Class,CUST-1089,Ojasvi Shanker,Consumer,East,Bhubaneswar,Office Supplies,Paper,2,325.16,0.0,46.58
+ORD-10683,2024-05-12,2024-05-16,Standard Class,CUST-1049,Ronith Sharma,Consumer,South,Hyderabad,Technology,Machines,10,2278.7,0.0,-86.7
+ORD-10614,2022-06-16,2022-06-20,Standard Class,CUST-1095,Januja Bora,Corporate,North,Delhi,Office Supplies,Paper,8,1859.92,0.0,311.34
+ORD-10132,2024-12-13,2024-12-18,Same Day,CUST-1171,Yasti Khalsa,Corporate,North,Delhi,Technology,Machines,9,3558.06,0.15,451.74
+ORD-10424,2023-03-15,2023-03-19,Same Day,CUST-1105,Zehaan Dubey,Corporate,West,Pune,Technology,Machines,9,4174.29,0.0,258.82
+ORD-10019,2023-04-30,2023-05-02,Standard Class,CUST-1113,Tristan Lad,Consumer,North,Delhi,Furniture,Chairs,7,1735.72,0.0,501.78
+ORD-10983,2024-08-27,2024-09-01,First Class,CUST-1125,Qarin Chandran,Corporate,South,Coimbatore,Furniture,Tables,10,3826.8,0.0,938.84
+ORD-10416,2022-01-02,2022-01-09,First Class,CUST-1075,Thomas Joshi,Home Office,East,Guwahati,Technology,Machines,9,1761.57,0.0,523.75
+ORD-10839,2024-01-22,2024-01-27,Same Day,CUST-1102,Meera Purohit,Home Office,West,Surat,Technology,Accessories,10,4765.0,0.0,-297.48
+ORD-10279,2023-10-15,2023-10-18,Second Class,CUST-1115,Falak Chander,Home Office,North,Delhi,Furniture,Bookcases,2,92.72,0.0,27.78
+ORD-10767,2022-05-11,2022-05-16,Standard Class,CUST-1179,,Consumer,North,Jaipur,Office Supplies,Labels,10,2741.0,0.3,490.29
+ORD-10185,2024-12-03,2024-12-05,Second Class,CUST-1153,Tara Vala,Home Office,East,Patna,Furniture,Bookcases,7,1100.75,0.0,165.69
+ORD-10913,2022-10-31,2022-11-01,First Class,CUST-1098,Upadhriti Saha,Consumer,North,Jaipur,Office Supplies,Art,5,1169.85,0.15,74.82
+ORD-10046,2022-02-25,2022-02-26,First Class,CUST-1042,Baljiwan Sundaram,Corporate,West,Surat,Furniture,Chairs,7,535.43,0.1,-8.78
+ORD-10868,2023-02-26,2023-03-04,First Class,CUST-1071,Rushil Sharaf,Corporate,West,Pune,Furniture,Bookcases,8,1779.2,0.1,145.21
+ORD-10283,2024-03-25,2024-03-29,Same Day,CUST-1074,Henry Narain,Consumer,North,Lucknow,Office Supplies,Binders,8,3587.92,0.0,-211.65
+ORD-10925,2022-08-16,2022-08-21,Standard Class,CUST-1156,Hemangini Tandon,Corporate,East,Kolkata,Office Supplies,Labels,8,3752.72,0.0,727.86
+ORD-10656,2024-06-26,2024-07-02,Standard Class,CUST-1059,Hiral Basak,Home Office,West,Mumbai,Office Supplies,Labels,5,1632.5,0.3,-29.11
+ORD-10848,2022-10-30,2022-11-03,Standard Class,CUST-1170,Triveni Bhasin,Corporate,East,Guwahati,Furniture,Tables,6,394.02,0.2,26.12
+ORD-10220,2024-03-07,2024-03-08,Standard Class,CUST-1007,Frado Wagle,Home Office,South,Coimbatore,Office Supplies,Labels,4,443.32,0.3,67.24
+ORD-10721,2023-03-14,2023-03-15,First Class,CUST-1053,Jairaj Bhardwaj,Consumer,West,Pune,Office Supplies,Binders,6,1010.7,0.0,81.83
+ORD-10587,2023-07-01,2023-07-08,Second Class,CUST-1081,Vamakshi Mittal,Corporate,North,Jaipur,Technology,Accessories,5,1632.8,0.0,341.39
+ORD-10840,2023-05-17,2023-05-23,Same Day,CUST-1115,Falak Chander,Consumer,East,Kolkata,Technology,Phones,9,125.01,0.3,-4.6
+ORD-10050,2024-03-23,2024-03-29,Second Class,CUST-1027,Jyoti Solanki,Consumer,North,Jaipur,Office Supplies,Labels,4,188.96,0.2,41.38
+ORD-10552,2023-09-11,2023-09-18,Second Class,CUST-1097,Manya Trivedi,Consumer,East,Kolkata,Technology,Copiers,10,1589.2,0.15,314.65
+ORD-10526,2022-03-07,2022-03-13,Same Day,CUST-1091,Tanmayi Amble,Corporate,East,Patna,Furniture,Bookcases,10,392.3,0.0,-19.62
+ORD-10730,2022-12-03,2022-12-09,First Class,CUST-1129,,Corporate,North,Lucknow,Office Supplies,Art,4,520.04,0.0,89.78
+ORD-10761,2024-06-23,2024-06-29,Second Class,CUST-1077,Lavanya Sheth,Home Office,West,Pune,Technology,Accessories,8,1221.04,0.0,-6.84
+ORD-10584,2023-05-30,2023-06-04,Standard Class,CUST-1169,Oviya Arora,Home Office,East,Guwahati,Furniture,Furnishings,9,2088.72,0.3,214.06
+ORD-10196,2022-01-14,2022-01-19,First Class,CUST-1015,Nidhi Gara,Home Office,West,Mumbai,Technology,Copiers,9,1904.04,0.0,263.21
+ORD-10119,2022-05-15,2022-05-18,Second Class,CUST-1104,Vanya Goyal,Corporate,East,Bhubaneswar,Technology,Phones,2,566.8,0.1,14.22
+ORD-10443,2023-10-13,2023-10-14,First Class,CUST-1079,Zayan Sangha,Consumer,South,Bengaluru,Office Supplies,Paper,9,2440.35,0.2,-91.22
+ORD-10916,2024-02-11,2024-02-15,First Class,CUST-1168,Netra Lata,Consumer,East,Guwahati,Office Supplies,Binders,10,3329.0,0.15,619.2
+ORD-10263,2023-06-15,2023-06-22,Same Day,CUST-1033,Keya Naidu,Consumer,South,Chennai,Office Supplies,Storage,2,41.36,0.0,-0.46
+ORD-10188,2023-02-21,2023-02-24,Second Class,CUST-1135,Yagnesh Balasubramanian,Consumer,South,Hyderabad,Office Supplies,Paper,2,923.78,0.3,43.32
+ORD-10923,2024-11-25,2024-11-28,First Class,CUST-1109,Kashvi Kara,Consumer,West,Pune,Furniture,Chairs,2,135.56,0.0,-10.42
+ORD-10889,2024-03-13,2024-03-17,First Class,CUST-1136,Rachita Bala,Corporate,North,Jaipur,Office Supplies,Paper,2,235.5,0.3,48.76
+ORD-10732,2024-02-21,2024-02-25,Second Class,CUST-1156,Hemangini Tandon,Home Office,West,Mumbai,Furniture,Furnishings,2,763.68,0.0,128.17
+ORD-10776,2023-04-01,2023-04-05,First Class,CUST-1057,Janaki Kuruvilla,Home Office,East,Guwahati,Furniture,Chairs,2,787.08,0.0,-16.47
+ORD-10687,2024-10-12,2024-10-14,Second Class,CUST-1084,Teerth Halder,Consumer,South,Chennai,Furniture,Furnishings,1,323.0,0.2,0.94
+ORD-10080,2022-04-25,2022-04-28,Same Day,CUST-1177,Abha Gola,Home Office,East,Bhubaneswar,Furniture,Chairs,6,1162.02,0.0,11.49
+ORD-10885,2022-02-03,2022-02-07,Same Day,CUST-1118,Bina Buch,Corporate,North,Chandigarh,Technology,Phones,3,422.13,0.1,75.17
+ORD-10391,2022-01-20,2022-01-22,First Class,CUST-1050,Tanmayi Saha,Corporate,South,Coimbatore,Technology,Accessories,7,1783.6,0.3,229.47
+ORD-10749,2023-12-15,2023-12-19,Standard Class,CUST-1155,Sudiksha Roy,Home Office,West,Mumbai,Office Supplies,Labels,8,3948.56,0.3,593.64
+ORD-10797,2022-07-26,2022-07-30,First Class,CUST-1082,Bhavini Balay,Consumer,South,Hyderabad,Office Supplies,Art,3,400.83,0.1,22.95
+ORD-10150,2023-09-11,2023-09-15,Same Day,CUST-1106,Vinaya Dhingra,Consumer,North,Lucknow,Office Supplies,Labels,4,1617.2,0.2,107.05
+ORD-10039,2024-02-26,2024-03-01,Standard Class,CUST-1121,,Corporate,North,Chandigarh,Office Supplies,Art,7,906.85,0.2,151.94
+ORD-10722,2023-07-25,2023-07-31,Same Day,CUST-1099,,Corporate,South,Chennai,Office Supplies,Paper,10,1908.0,0.0,569.46
+ORD-10976,2022-03-15,2022-03-22,Same Day,CUST-1084,Teerth Halder,Corporate,West,Mumbai,Furniture,Tables,1,380.01,0.15,-17.4
+ORD-10078,2024-12-28,2025-01-01,Standard Class,CUST-1177,Abha Gola,Home Office,West,Ahmedabad,Technology,Phones,6,1902.78,0.3,159.27
+ORD-10900,2022-01-11,2022-01-15,Second Class,CUST-1072,Ganga Kalla,Corporate,North,Lucknow,Furniture,Furnishings,6,2001.12,0.0,-155.18
+ORD-10654,2024-09-12,2024-09-17,Same Day,CUST-1140,Nirja Swamy,Home Office,East,Guwahati,Furniture,Chairs,5,1436.1,0.0,361.33
+ORD-10993,2022-12-11,2022-12-12,Second Class,CUST-1147,Qarin Sood,Consumer,East,Patna,Technology,Copiers,4,1978.6,0.0,629.78
+ORD-10880,2022-10-31,2022-11-07,Standard Class,CUST-1149,Ishanvi Varma,Home Office,West,Ahmedabad,Furniture,Tables,10,4450.2,0.1,747.39
+ORD-10910,2022-04-24,2022-04-25,First Class,CUST-1026,Baghyawati Batta,Home Office,West,Surat,Furniture,Furnishings,5,1041.15,0.0,280.2
+ORD-10632,2024-05-03,2024-05-10,Second Class,CUST-1168,Netra Lata,Home Office,West,Surat,Furniture,Bookcases,6,2400.18,0.3,566.07
+ORD-10863,2024-09-23,2024-09-29,First Class,CUST-1025,Falguni Bajaj,Home Office,West,Mumbai,Furniture,Furnishings,2,226.1,0.1,14.01
+ORD-10353,2023-08-19,2023-08-25,Same Day,CUST-1145,Amol Thaker,Corporate,North,Delhi,Technology,Copiers,2,265.68,0.0,60.18
+ORD-10281,2023-07-31,2023-08-03,Same Day,CUST-1052,Nilima Buch,Consumer,South,Hyderabad,Office Supplies,Labels,4,228.0,0.1,32.28
+ORD-10441,2022-10-09,2022-10-10,Second Class,CUST-1071,Rushil Sharaf,Corporate,South,Coimbatore,Furniture,Bookcases,7,1856.05,0.2,260.74
+ORD-10505,2024-10-04,2024-10-05,Standard Class,CUST-1125,Qarin Chandran,Corporate,South,Bengaluru,Technology,Copiers,3,824.73,0.1,-1.28
+ORD-10648,2024-01-10,2024-01-14,Standard Class,CUST-1096,Nirja Mukherjee,Consumer,South,Bengaluru,Furniture,Bookcases,2,163.62,0.1,40.17
+ORD-10148,2023-07-17,2023-07-19,Second Class,CUST-1132,Balendra Choudhary,Home Office,East,Patna,Furniture,Bookcases,5,1555.35,0.0,196.22
+ORD-10129,2022-06-12,2022-06-13,Same Day,CUST-1035,Michael Vig,Consumer,West,Mumbai,Office Supplies,Labels,5,578.35,0.0,85.0
+ORD-10096,2022-09-17,2022-09-23,Same Day,CUST-1082,Bhavini Balay,Corporate,North,Delhi,Furniture,Bookcases,7,1874.46,0.2,-107.07
+ORD-10991,2023-07-17,2023-07-20,Same Day,CUST-1089,Ojasvi Shanker,Corporate,South,Bengaluru,Office Supplies,Binders,7,2074.73,0.0,135.43
+ORD-10086,2023-08-28,2023-08-31,First Class,CUST-1148,Eta Acharya,Home Office,East,Kolkata,Technology,Accessories,7,672.42,0.0,170.75
+ORD-10179,2022-05-30,2022-05-31,Standard Class,CUST-1005,Falguni Manne,Consumer,West,Pune,Office Supplies,Binders,7,1251.74,0.0,179.65
+ORD-10254,2024-01-26,2024-01-28,Second Class,CUST-1079,Zayan Sangha,Corporate,East,Kolkata,Furniture,Furnishings,5,1431.35,0.0,333.23
+ORD-10862,2023-06-21,2023-06-23,Second Class,CUST-1117,Deepa Doctor,Corporate,North,Lucknow,Furniture,Tables,2,95.84,0.3,4.2
+ORD-10881,2023-07-29,2023-08-01,Standard Class,CUST-1135,Yagnesh Balasubramanian,Corporate,South,Coimbatore,Technology,Copiers,8,965.28,0.0,236.29
+ORD-10680,2022-04-23,2022-04-26,Standard Class,CUST-1177,Abha Gola,Home Office,North,Jaipur,Furniture,Chairs,10,3168.3,0.0,-171.65
+ORD-10717,2022-12-31,2023-01-02,Standard Class,CUST-1002,Arjun Borde,Home Office,East,Bhubaneswar,Furniture,Furnishings,1,447.42,0.15,-1.04
+ORD-10610,2022-04-22,2022-04-24,Same Day,CUST-1168,Netra Lata,Corporate,West,Pune,Furniture,Tables,3,82.71,0.0,-2.18
+ORD-10036,2022-12-23,2022-12-28,First Class,CUST-1075,Thomas Joshi,Corporate,South,Coimbatore,Furniture,Furnishings,10,1574.7,0.15,368.32
+ORD-10651,2024-07-21,2024-07-25,Standard Class,CUST-1117,Deepa Doctor,Home Office,South,Bengaluru,Technology,Phones,1,375.78,0.15,21.14
+ORD-10304,2023-04-01,2023-04-04,First Class,CUST-1143,Raagini Mall,Corporate,South,Chennai,Technology,Machines,4,1498.64,0.0,133.7
+ORD-10332,2024-03-04,2024-03-10,Same Day,CUST-1045,Avi Varkey,Corporate,South,Chennai,Technology,Accessories,10,3070.2,0.0,389.45
+ORD-10457,2023-09-04,2023-09-07,Second Class,CUST-1167,Anirudh Parmar,Home Office,East,Kolkata,Furniture,Tables,2,68.06,0.1,21.27
+ORD-10017,2024-05-17,2024-05-21,Standard Class,CUST-1024,Ishwar Dash,Consumer,North,Lucknow,Technology,Copiers,8,3466.24,0.0,703.7
+ORD-10427,2022-06-08,2022-06-14,Standard Class,CUST-1065,Warda Vora,Home Office,East,Patna,Furniture,Furnishings,6,2391.12,0.0,286.28
+ORD-10365,2023-03-08,2023-03-13,Standard Class,CUST-1084,Teerth Halder,Consumer,North,Jaipur,Office Supplies,Art,3,981.48,0.1,-79.41
+ORD-10300,2023-09-04,2023-09-10,First Class,CUST-1026,Baghyawati Batta,Corporate,North,Lucknow,Technology,Machines,2,492.1,0.0,169.66
+ORD-10981,2024-03-17,2024-03-20,Standard Class,CUST-1179,Krish Yadav,Corporate,South,Coimbatore,Office Supplies,Binders,9,3241.26,0.1,2.41
+ORD-10273,2023-09-11,2023-09-14,Same Day,CUST-1095,Januja Bora,Home Office,West,Ahmedabad,Technology,Phones,3,1464.51,0.2,383.01
+ORD-10555,2022-10-27,2022-10-30,Standard Class,CUST-1131,Vrishti Dasgupta,Corporate,North,Delhi,Office Supplies,Paper,8,3523.04,0.0,214.28
+ORD-10024,2023-03-13,2023-03-18,Second Class,CUST-1002,Arjun Borde,Corporate,West,Mumbai,Technology,Phones,5,374.5,0.0,111.0
+ORD-10303,2022-12-15,2022-12-22,First Class,CUST-1056,Owen Kala,Home Office,West,Ahmedabad,Technology,Machines,9,888.84,0.0,99.42
+ORD-10708,2022-05-21,2022-05-25,Same Day,CUST-1040,Chaitanya Srinivasan,Consumer,North,Jaipur,Furniture,Furnishings,4,294.68,0.0,11.61
+ORD-10729,2023-01-30,2023-01-31,Second Class,CUST-1161,Leela Sampath,Consumer,North,Delhi,Furniture,Furnishings,3,1409.25,0.0,-82.73
+ORD-10909,2022-08-23,2022-08-24,Second Class,CUST-1079,Zayan Sangha,Consumer,North,Chandigarh,Office Supplies,Labels,1,84.98,0.0,11.38
+ORD-10378,2024-01-07,2024-01-09,Same Day,CUST-1008,,Corporate,South,Chennai,Technology,Accessories,1,488.07,0.0,170.13
+ORD-10787,2023-04-09,2023-04-13,Second Class,CUST-1031,Falguni Baria,Home Office,West,Ahmedabad,Furniture,Tables,7,1353.87,0.0,125.58
+ORD-10051,2023-12-13,2023-12-18,First Class,CUST-1178,Ishaan Shukla,Consumer,East,Kolkata,Technology,Phones,7,2339.05,0.0,298.66
+ORD-10375,2023-03-16,2023-03-21,Standard Class,CUST-1030,Waida Aggarwal,Consumer,South,Chennai,Office Supplies,Paper,7,2766.26,0.3,286.12
+ORD-10860,2022-09-25,2022-09-29,First Class,CUST-1139,Samaksh Minhas,Consumer,North,Delhi,Technology,Copiers,6,608.46,0.2,148.01
+ORD-10124,2024-12-29,2024-12-31,Second Class,CUST-1156,Hemangini Tandon,Corporate,East,Patna,Technology,Copiers,5,2415.7,0.3,187.8
+ORD-10040,2023-05-26,2023-06-02,First Class,CUST-1056,Owen Kala,Corporate,South,Chennai,Technology,Copiers,2,467.34,0.3,35.69
+ORD-10288,2024-03-05,2024-03-10,Same Day,CUST-1066,Girindra Bhavsar,Consumer,East,Kolkata,Technology,Phones,7,1963.57,0.3,33.39
+ORD-10475,2024-08-11,2024-08-16,Same Day,CUST-1091,Tanmayi Amble,Consumer,East,Kolkata,Office Supplies,Paper,3,166.59,0.3,36.6
+ORD-10049,2022-12-10,2022-12-15,Second Class,CUST-1055,Anjali Bera,Corporate,West,Ahmedabad,Technology,Machines,10,4822.3,0.2,-186.95
+ORD-10775,2024-04-13,2024-04-14,First Class,CUST-1063,Gautami Walla,Consumer,North,Delhi,Office Supplies,Binders,6,1942.14,0.0,600.43
+ORD-10738,2022-06-14,2022-06-19,First Class,CUST-1029,Banjeet Krishna,Home Office,North,Jaipur,Technology,Copiers,4,1756.96,0.0,480.33
+ORD-10629,2024-09-22,2024-09-27,Same Day,CUST-1126,Krishna Rajagopalan,Consumer,East,Guwahati,Furniture,Furnishings,10,3650.6,0.2,897.41
+ORD-10527,2022-11-18,2022-11-25,Second Class,CUST-1107,Rayaan Patel,Consumer,South,Hyderabad,Office Supplies,Paper,10,4537.3,0.15,1298.02
+ORD-10202,2024-02-26,2024-03-04,First Class,CUST-1041,Idika Kumer,Consumer,South,Hyderabad,Technology,Copiers,3,1192.02,0.2,215.4
+ORD-10728,2023-05-24,2023-05-31,Second Class,CUST-1084,Teerth Halder,Corporate,East,Kolkata,Furniture,Tables,4,1231.8,0.1,149.29
+ORD-10604,2023-05-24,2023-05-27,Same Day,CUST-1007,Frado Wagle,Consumer,East,Guwahati,Office Supplies,Paper,10,3452.9,0.1,-190.86
+ORD-10905,2022-02-26,2022-03-03,Second Class,CUST-1109,Kashvi Kara,Home Office,West,Surat,Office Supplies,Art,1,479.17,0.1,-25.96
+ORD-10007,2023-06-27,2023-06-29,Same Day,CUST-1167,Anirudh Parmar,Home Office,West,Pune,Office Supplies,Art,4,1500.16,0.15,23.25
+ORD-10153,2022-11-24,2022-12-01,Second Class,CUST-1074,Henry Narain,Corporate,West,Pune,Technology,Copiers,6,2805.24,0.2,91.39
+ORD-10081,2024-02-23,2024-02-28,Same Day,CUST-1174,Triya Nayar,Home Office,South,Chennai,Furniture,Tables,4,1015.44,0.15,-30.72
+ORD-10392,2022-07-22,2022-07-28,Standard Class,CUST-1076,Triveni Naidu,Corporate,East,Guwahati,Technology,Phones,3,118.26,0.3,1.19
+ORD-10544,2024-10-19,2024-10-26,First Class,CUST-1041,Idika Kumer,Home Office,East,Guwahati,Furniture,Chairs,3,1423.26,0.0,-42.38
+ORD-10809,2022-10-31,2022-11-04,Second Class,CUST-1114,Bahadurjit Varughese,Consumer,South,Hyderabad,Technology,Copiers,2,506.04,0.1,-7.62
+ORD-10759,2024-03-14,2024-03-17,Same Day,CUST-1124,Madhav Sathe,Consumer,West,Mumbai,Office Supplies,Paper,7,2395.19,0.0,577.17
+ORD-10114,2024-07-08,2024-07-14,First Class,CUST-1039,Leela Menon,Consumer,North,Jaipur,Furniture,Furnishings,10,3250.7,0.15,125.57
+ORD-10373,2023-06-20,2023-06-27,Same Day,CUST-1027,Jyoti Solanki,Consumer,South,Hyderabad,Office Supplies,Labels,9,1957.95,0.0,343.32
+ORD-10547,2024-11-14,2024-11-18,Standard Class,CUST-1050,Tanmayi Saha,Home Office,North,Delhi,Furniture,Furnishings,4,1001.32,0.15,146.64
+ORD-10343,2024-01-09,2024-01-12,Standard Class,CUST-1089,Ojasvi Shanker,Consumer,South,Hyderabad,Furniture,Bookcases,4,1902.6,0.15,224.35
+ORD-10912,2023-08-16,2023-08-22,First Class,CUST-1130,Atharv Karpe,Corporate,South,Hyderabad,Office Supplies,Art,2,959.9,0.1,56.42
+ORD-10954,2022-12-08,2022-12-09,Same Day,CUST-1126,Krishna Rajagopalan,Home Office,South,Chennai,Furniture,Furnishings,7,973.35,0.15,182.12
+ORD-10514,2022-12-16,2022-12-23,Same Day,CUST-1044,Oni Datta,Home Office,North,Jaipur,Office Supplies,Binders,10,413.4,0.3,-15.09
+ORD-10461,2023-01-04,2023-01-09,Standard Class,CUST-1157,Riya Gara,Corporate,West,Surat,Technology,Copiers,4,1428.84,0.0,-141.87
+ORD-10618,2024-09-02,2024-09-05,First Class,CUST-1131,Vrishti Dasgupta,Home Office,South,Coimbatore,Office Supplies,Art,10,3041.7,0.0,731.29
+ORD-10964,2022-06-02,2022-06-05,Standard Class,CUST-1171,Yasti Khalsa,Home Office,North,Chandigarh,Office Supplies,Binders,3,775.38,0.0,80.69
+ORD-10649,2024-07-02,2024-07-03,Same Day,CUST-1015,Nidhi Gara,Corporate,West,Pune,Furniture,Furnishings,6,2049.84,0.1,303.86
+ORD-10970,2022-12-27,2022-12-31,Second Class,CUST-1083,Oeshi Pai,Corporate,South,Chennai,Technology,Copiers,6,2002.2,0.0,427.74
+ORD-10795,2023-04-19,2023-04-21,Standard Class,CUST-1013,Lipika Suresh,Corporate,West,Ahmedabad,Office Supplies,Labels,6,1312.68,0.0,169.91
+ORD-10310,2022-12-09,2022-12-10,First Class,CUST-1033,Keya Naidu,Corporate,North,Lucknow,Office Supplies,Labels,1,156.12,0.0,16.42
+ORD-10432,2024-12-09,2024-12-11,Standard Class,CUST-1143,Raagini Mall,Consumer,South,Bengaluru,Office Supplies,Art,4,180.44,0.3,11.81
+ORD-10411,2022-01-31,2022-02-02,Standard Class,CUST-1055,Anjali Bera,Consumer,North,Lucknow,Furniture,Furnishings,5,1482.5,0.1,340.39
+ORD-10686,2024-08-15,2024-08-20,First Class,CUST-1051,Ikshita Acharya,Corporate,North,Jaipur,Office Supplies,Paper,6,2564.88,0.15,726.82
+ORD-10771,2023-05-01,2023-05-02,Second Class,CUST-1137,Meera Kala,Home Office,South,Chennai,Technology,Phones,4,317.68,0.3,61.08
+ORD-10497,2024-03-27,2024-03-31,Second Class,CUST-1067,Rohan Lanka,Corporate,North,Jaipur,Furniture,Tables,5,1216.85,0.3,268.41
+ORD-10011,2022-11-10,2022-11-13,Standard Class,CUST-1045,Avi Varkey,Home Office,North,Chandigarh,Technology,Machines,3,822.9,0.3,181.5
+ORD-10465,2024-04-27,2024-05-03,First Class,CUST-1039,,Home Office,West,Surat,Technology,Machines,1,419.2,0.0,64.65
+ORD-10750,2024-12-01,2024-12-06,First Class,CUST-1098,Upadhriti Saha,Home Office,East,Patna,Technology,Accessories,9,230.04,0.1,53.53
+ORD-10772,2022-09-21,2022-09-27,Same Day,CUST-1141,Pranit Krishna,Home Office,South,Hyderabad,Technology,Machines,10,2167.9,0.15,27.15
+ORD-10896,2023-02-01,2023-02-05,Same Day,CUST-1147,Qarin Sood,Home Office,West,Mumbai,Office Supplies,Paper,2,966.14,0.2,158.8
+ORD-10588,2023-05-18,2023-05-25,Same Day,CUST-1061,Tanveer Taneja,Home Office,North,Delhi,Furniture,Tables,5,1187.2,0.15,349.24
+ORD-10819,2022-08-20,2022-08-25,First Class,CUST-1037,Patrick Shanker,Consumer,West,Mumbai,Office Supplies,Art,7,3361.4,0.0,-117.31
+ORD-10326,2022-03-15,2022-03-20,First Class,CUST-1127,Laban Sarkar,Home Office,North,Jaipur,Furniture,Furnishings,9,90.72,0.0,23.25
+ORD-10164,2023-05-20,2023-05-23,Second Class,CUST-1090,Baghyawati Joshi,Home Office,East,Patna,Technology,Copiers,9,1406.34,0.0,347.41
+ORD-10012,2023-09-22,2023-09-24,Standard Class,CUST-1082,Bhavini Balay,Home Office,West,Ahmedabad,Furniture,Chairs,1,128.03,0.15,35.49
+ORD-10414,2022-10-03,2022-10-06,Same Day,CUST-1049,Ronith Sharma,Consumer,North,Lucknow,Technology,Copiers,1,247.8,0.1,33.8
+ORD-10671,2023-01-31,2023-02-04,First Class,CUST-1045,Avi Varkey,Consumer,North,Lucknow,Furniture,Furnishings,1,118.55,0.0,28.6
+ORD-10103,2024-09-14,2024-09-16,First Class,CUST-1079,Zayan Sangha,Home Office,East,Patna,Furniture,Tables,2,363.12,0.15,20.19
+ORD-10702,2023-11-29,2023-12-06,Same Day,CUST-1053,Jairaj Bhardwaj,Consumer,West,Surat,Furniture,Furnishings,2,326.82,0.0,30.38
+ORD-10864,2023-01-01,2023-01-07,First Class,CUST-1115,Falak Chander,Corporate,South,Chennai,Furniture,Bookcases,10,3192.9,0.3,-191.87
+ORD-10476,2023-04-20,2023-04-22,First Class,CUST-1116,Bhavya Sankaran,Corporate,East,Guwahati,Technology,Copiers,3,1295.82,0.15,17.76
+ORD-10108,2023-03-28,2023-04-01,Second Class,CUST-1173,Laksh Bandi,Consumer,West,Mumbai,Technology,Machines,10,368.4,0.0,13.13
+ORD-10963,2022-09-03,2022-09-07,First Class,CUST-1113,Tristan Lad,Home Office,South,Chennai,Office Supplies,Storage,7,1761.9,0.0,509.24
+ORD-10986,2022-11-28,2022-12-03,Standard Class,CUST-1108,Jackson Balan,Consumer,North,Delhi,Office Supplies,Paper,2,182.88,0.1,47.96
+ORD-10785,2022-04-28,2022-05-01,Standard Class,CUST-1078,Ayaan Gola,Consumer,North,Jaipur,Office Supplies,Labels,1,311.61,0.0,10.68
+ORD-10886,2024-06-02,2024-06-04,Standard Class,CUST-1067,Rohan Lanka,Corporate,North,Lucknow,Technology,Phones,3,613.47,0.1,70.98
+ORD-10183,2023-02-27,2023-02-28,Standard Class,CUST-1169,Oviya Arora,Consumer,West,Pune,Technology,Phones,2,602.06,0.1,91.58
+ORD-10894,2024-09-23,2024-09-26,First Class,CUST-1085,Unni Radhakrishnan,Home Office,West,Ahmedabad,Office Supplies,Storage,6,1408.74,0.3,57.87
+ORD-10967,2024-11-23,2024-11-30,Second Class,CUST-1127,Laban Sarkar,Home Office,East,Kolkata,Furniture,Tables,4,46.28,0.0,5.59
+ORD-10035,2022-09-13,2022-09-19,Same Day,CUST-1110,Vritti Merchant,Home Office,North,Lucknow,Technology,Machines,5,1292.45,0.2,86.62
+ORD-10492,2023-09-15,2023-09-21,Second Class,CUST-1090,Baghyawati Joshi,Home Office,East,Kolkata,Office Supplies,Paper,10,1376.2,0.2,124.32
+ORD-10691,2024-07-23,2024-07-25,Same Day,CUST-1167,Anirudh Parmar,Home Office,North,Lucknow,Office Supplies,Paper,6,2439.9,0.2,-44.68
+ORD-10865,2023-01-30,2023-02-04,Second Class,CUST-1123,Patrick Rama,Consumer,North,Delhi,Furniture,Bookcases,1,272.62,0.15,30.19
+ORD-10318,2024-05-22,2024-05-28,Standard Class,CUST-1044,Oni Datta,Consumer,North,Lucknow,Office Supplies,Storage,2,113.1,0.3,23.8
+ORD-10291,2023-05-02,2023-05-03,First Class,CUST-1155,Sudiksha Roy,Corporate,West,Ahmedabad,Furniture,Furnishings,8,3689.68,0.0,-335.37
+ORD-10154,2022-02-17,2022-02-18,First Class,CUST-1131,Vrishti Dasgupta,Consumer,West,Surat,Office Supplies,Storage,7,1803.69,0.0,-5.74
+ORD-10435,2022-01-29,2022-02-01,Second Class,CUST-1013,Lipika Suresh,Home Office,South,Hyderabad,Technology,Accessories,2,319.02,0.1,-25.77
+ORD-10184,2022-04-26,2022-04-28,First Class,CUST-1011,Laksh Gera,Home Office,West,Pune,Office Supplies,Paper,9,4471.29,0.0,1194.3
+ORD-10669,2024-09-02,2024-09-03,Same Day,CUST-1084,Teerth Halder,Corporate,North,Delhi,Technology,Accessories,1,339.63,0.1,45.88
+ORD-10393,2023-12-06,2023-12-07,Second Class,CUST-1085,Unni Radhakrishnan,Home Office,East,Bhubaneswar,Office Supplies,Storage,7,485.87,0.3,70.0
+ORD-10347,2022-03-19,2022-03-20,Standard Class,CUST-1018,Victor Dube,Home Office,South,Hyderabad,Furniture,Furnishings,2,73.18,0.3,0.68
+ORD-10095,2022-12-24,2022-12-25,Second Class,CUST-1000,Abha Venkataraman,Home Office,East,Bhubaneswar,Furniture,Tables,1,74.58,0.0,19.05
+ORD-10915,2022-11-07,2022-11-10,Second Class,CUST-1134,,Corporate,West,Pune,Technology,Phones,10,1762.5,0.2,403.82
+ORD-10309,2022-02-06,2022-02-12,First Class,CUST-1095,Januja Bora,Corporate,North,Chandigarh,Office Supplies,Labels,1,317.08,0.0,0.58
+ORD-10216,2023-12-08,2023-12-09,Standard Class,CUST-1095,Januja Bora,Consumer,West,Pune,Office Supplies,Labels,8,489.84,0.1,138.54
+ORD-10045,2024-06-11,2024-06-15,Same Day,CUST-1139,Samaksh Minhas,Home Office,South,Hyderabad,Office Supplies,Paper,1,200.54,0.2,32.99
+ORD-10192,2023-03-30,2023-04-05,Same Day,CUST-1052,Nilima Buch,Corporate,East,Kolkata,Office Supplies,Art,3,53.85,0.15,14.68
+ORD-10511,2024-03-07,2024-03-08,Same Day,CUST-1009,Omya Sharma,Consumer,South,Coimbatore,Furniture,Tables,9,2927.43,0.1,369.58
+ORD-10141,2022-10-09,2022-10-14,Standard Class,CUST-1115,Falak Chander,Consumer,East,Kolkata,Office Supplies,Art,6,1230.24,0.2,25.01
+ORD-10235,2023-11-23,2023-11-28,First Class,CUST-1054,Krishna Batra,Home Office,West,Ahmedabad,Office Supplies,Storage,10,739.9,0.3,61.32
+ORD-10988,2023-08-18,2023-08-23,First Class,CUST-1082,Bhavini Balay,Corporate,East,Patna,Technology,Accessories,4,1613.52,0.2,86.57
+ORD-10079,2022-07-05,2022-07-09,Same Day,CUST-1017,Jhalak D’Alia,Consumer,South,Bengaluru,Technology,Machines,2,765.16,0.2,179.15
+ORD-10407,2023-12-02,2023-12-06,Same Day,CUST-1023,Logan Dutta,Home Office,South,Bengaluru,Furniture,Furnishings,5,1975.05,0.1,620.51
+ORD-10877,2022-03-01,2022-03-03,First Class,CUST-1164,Dakshesh Mistry,Home Office,North,Delhi,Office Supplies,Labels,1,414.47,0.0,-21.84
+ORD-10613,2024-10-17,2024-10-23,Standard Class,CUST-1146,Imaran Barad,Corporate,South,Bengaluru,Office Supplies,Binders,2,889.62,0.0,24.84
+ORD-10625,2024-01-09,2024-01-15,Standard Class,CUST-1177,Abha Gola,Consumer,West,Ahmedabad,Technology,Copiers,7,2829.89,0.0,-123.69
+ORD-10001,2023-02-12,2023-02-18,Standard Class,CUST-1007,Frado Wagle,Consumer,North,Delhi,Furniture,Tables,9,1940.04,0.1,288.39
+ORD-10513,2024-09-28,2024-10-04,Second Class,CUST-1148,Eta Acharya,Consumer,South,Bengaluru,Furniture,Chairs,1,240.9,0.15,-16.26
+ORD-10348,2024-04-08,2024-04-12,Standard Class,CUST-1058,Upasna Kalla,Home Office,East,Guwahati,Office Supplies,Art,6,109.68,0.2,-4.1
+ORD-10370,2022-03-30,2022-04-05,Same Day,CUST-1166,Triya Khurana,Corporate,West,Ahmedabad,Technology,Copiers,9,1981.71,0.3,162.24
+ORD-10377,2022-12-25,2022-12-31,First Class,CUST-1098,Upadhriti Saha,Consumer,West,Mumbai,Technology,Machines,8,1800.8,0.0,509.19
+ORD-10240,2022-10-08,2022-10-12,Standard Class,CUST-1026,Baghyawati Batta,Home Office,North,Lucknow,Office Supplies,Storage,3,973.11,0.2,-27.8
+ORD-10786,2022-07-27,2022-07-31,Second Class,CUST-1089,Ojasvi Shanker,Corporate,South,Chennai,Office Supplies,Storage,8,854.4,0.15,95.46
+ORD-10623,2024-07-20,2024-07-27,Second Class,CUST-1011,Laksh Gera,Consumer,North,Lucknow,Office Supplies,Storage,8,2525.36,0.0,135.36
+ORD-10227,2023-07-17,2023-07-19,Same Day,CUST-1144,Darika Nori,Home Office,North,Delhi,Furniture,Bookcases,9,1363.05,0.3,100.94
+ORD-10027,2023-07-21,2023-07-22,First Class,CUST-1125,Qarin Chandran,Consumer,East,Guwahati,Furniture,Chairs,1,173.44,0.0,32.38
+ORD-10956,2022-09-01,2022-09-04,Standard Class,CUST-1032,Azaan Kohli,Consumer,West,Ahmedabad,Technology,Accessories,6,1798.92,0.15,-78.75
+ORD-10758,2023-11-14,2023-11-16,Standard Class,CUST-1055,Anjali Bera,Consumer,West,Mumbai,Office Supplies,Art,4,1702.2,0.3,1.53
+ORD-10685,2023-05-02,2023-05-07,Second Class,CUST-1094,Vritti Shah,Home Office,North,Delhi,Technology,Accessories,9,3876.84,0.1,190.92
+ORD-10500,2023-01-04,2023-01-07,Standard Class,CUST-1172,Xavier Nayak,Corporate,South,Hyderabad,Technology,Accessories,9,136.62,0.0,37.47
+ORD-10989,2024-12-09,2024-12-15,Same Day,CUST-1118,Bina Buch,Consumer,South,Bengaluru,Office Supplies,Paper,8,118.48,0.1,-2.06
+ORD-10073,2023-05-15,2023-05-19,Second Class,CUST-1074,Henry Narain,Consumer,East,Guwahati,Office Supplies,Art,9,727.83,0.0,229.15
+ORD-10546,2024-01-02,2024-01-03,Second Class,CUST-1006,Benjamin Narayanan,Corporate,West,Surat,Technology,Accessories,6,221.82,0.2,-2.16
+ORD-10831,2023-07-06,2023-07-07,Same Day,CUST-1141,Pranit Krishna,Consumer,South,Bengaluru,Technology,Phones,10,2867.5,0.15,838.27
+ORD-10882,2022-06-03,2022-06-07,Same Day,CUST-1142,Banjeet Gopal,Consumer,South,Chennai,Technology,Accessories,1,114.11,0.2,-0.25
+ORD-10434,2022-04-02,2022-04-09,Standard Class,CUST-1157,Riya Gara,Consumer,West,Surat,Technology,Accessories,4,431.4,0.0,-12.86
+ORD-10747,2024-01-25,2024-01-29,Same Day,CUST-1154,Alka Dhingra,Home Office,North,Chandigarh,Technology,Machines,10,3462.3,0.3,275.9
+ORD-10690,2022-12-27,2023-01-03,Second Class,CUST-1141,Pranit Krishna,Corporate,South,Chennai,Furniture,Tables,5,2281.1,0.0,625.36
+ORD-10289,2022-10-31,2022-11-05,Standard Class,CUST-1179,Krish Yadav,Corporate,West,Pune,Furniture,Furnishings,10,2955.1,0.0,934.45
+ORD-10334,2023-03-06,2023-03-11,Second Class,CUST-1140,Nirja Swamy,Home Office,East,Patna,Technology,Accessories,5,1732.2,0.2,-55.84
+ORD-10999,2023-07-18,2023-07-24,First Class,CUST-1064,Aishani Sharma,Home Office,North,Delhi,Technology,Machines,8,1641.28,0.2,284.82
+ORD-10409,2024-06-26,2024-06-28,Second Class,CUST-1003,Arya Chaudhry,Corporate,North,Jaipur,Technology,Accessories,1,107.6,0.2,21.26
+ORD-10136,2023-11-11,2023-11-14,Same Day,CUST-1009,Omya Sharma,Corporate,South,Chennai,Office Supplies,Storage,2,803.36,0.1,217.1
+ORD-10822,2022-02-05,2022-02-08,Standard Class,CUST-1022,Chakradhar Balasubramanian,Corporate,South,Bengaluru,Office Supplies,Binders,9,2179.98,0.0,685.4
+ORD-10325,2024-07-29,2024-08-02,First Class,CUST-1057,Janaki Kuruvilla,Consumer,West,Mumbai,Office Supplies,Paper,10,2295.7,0.3,199.76
+ORD-10131,2023-08-20,2023-08-24,Second Class,CUST-1137,Meera Kala,Home Office,North,Chandigarh,Technology,Accessories,1,311.26,0.0,48.81
+ORD-10396,2024-06-30,2024-07-07,Same Day,CUST-1074,Henry Narain,Consumer,East,Bhubaneswar,Technology,Copiers,6,2258.82,0.15,642.21
+ORD-10098,2024-06-27,2024-06-28,First Class,CUST-1102,Meera Purohit,Home Office,West,Surat,Technology,Phones,2,335.66,0.0,-23.64
+ORD-10897,2024-03-11,2024-03-16,Standard Class,CUST-1044,Oni Datta,Home Office,East,Bhubaneswar,Technology,Machines,7,3312.26,0.0,129.83
+ORD-10248,2022-01-26,2022-02-01,First Class,CUST-1156,Hemangini Tandon,Home Office,North,Delhi,Office Supplies,Paper,3,1061.19,0.0,130.94
+ORD-10723,2022-07-14,2022-07-19,Second Class,CUST-1153,Tara Vala,Corporate,West,Ahmedabad,Furniture,Tables,6,2945.34,0.2,176.38
+ORD-10474,2024-02-25,2024-02-26,Same Day,CUST-1007,Frado Wagle,Home Office,West,Mumbai,Technology,Phones,2,437.94,0.0,95.08
+ORD-10385,2022-08-07,2022-08-08,Standard Class,CUST-1051,Ikshita Acharya,Home Office,South,Bengaluru,Technology,Machines,2,682.3,0.2,66.43
+ORD-10684,2023-09-30,2023-10-05,First Class,CUST-1032,Azaan Kohli,Corporate,East,Bhubaneswar,Technology,Copiers,9,3509.91,0.0,390.6
+ORD-10483,2023-09-06,2023-09-11,First Class,CUST-1147,Qarin Sood,Consumer,West,Ahmedabad,Furniture,Tables,5,2300.35,0.1,461.69
+ORD-10217,2023-02-28,2023-03-05,Same Day,CUST-1036,Gaurang Dave,Corporate,East,Guwahati,Office Supplies,Storage,8,1445.36,0.0,140.45
+ORD-10715,2024-08-02,2024-08-03,Same Day,CUST-1034,Tara Dhawan,Consumer,East,Guwahati,Technology,Copiers,2,557.46,0.0,123.26
+ORD-10403,2024-04-23,2024-04-28,Same Day,CUST-1152,Tanvi Patel,Corporate,South,Bengaluru,Furniture,Bookcases,7,1424.01,0.0,315.73
+ORD-10563,2022-07-05,2022-07-07,Second Class,CUST-1052,Nilima Buch,Home Office,South,Chennai,Furniture,Bookcases,5,2374.55,0.0,138.89
+ORD-10482,2022-01-01,2022-01-08,Same Day,CUST-1126,,Home Office,North,Chandigarh,Furniture,Tables,3,1001.49,0.1,125.35
+ORD-10932,2023-08-22,2023-08-24,Standard Class,CUST-1072,Ganga Kalla,Consumer,North,Chandigarh,Office Supplies,Storage,10,2049.3,0.2,-73.66
+ORD-10352,2022-11-26,2022-11-28,Second Class,CUST-1053,Jairaj Bhardwaj,Home Office,East,Patna,Furniture,Furnishings,4,1249.08,0.0,-15.68
+ORD-10163,2024-12-12,2024-12-16,First Class,CUST-1035,Michael Vig,Home Office,South,Coimbatore,Technology,Machines,6,2872.68,0.1,802.66
+ORD-10488,2024-02-27,2024-03-01,Same Day,CUST-1046,Nathaniel Chakraborty,Home Office,West,Surat,Technology,Copiers,4,404.16,0.15,-33.2
+ORD-10005,2022-12-17,2022-12-22,Second Class,CUST-1094,Vritti Shah,Home Office,East,Kolkata,Furniture,Bookcases,4,360.28,0.1,6.96
+ORD-10383,2023-08-12,2023-08-13,Second Class,CUST-1132,Balendra Choudhary,Corporate,North,Chandigarh,Technology,Machines,7,2380.77,0.3,89.82
+ORD-10794,2024-04-01,2024-04-02,Second Class,CUST-1161,Leela Sampath,Consumer,South,Bengaluru,Furniture,Chairs,5,2476.5,0.0,227.43
+ORD-10568,2022-05-23,2022-05-30,Same Day,CUST-1141,Pranit Krishna,Home Office,West,Pune,Office Supplies,Art,8,3761.2,0.0,-72.65
+ORD-10701,2022-01-25,2022-01-29,Second Class,CUST-1076,Triveni Naidu,Consumer,East,Guwahati,Office Supplies,Art,9,4452.66,0.0,1288.87
+ORD-10157,2022-07-18,2022-07-22,First Class,CUST-1115,Falak Chander,Consumer,East,Patna,Technology,Phones,6,2397.0,0.0,362.01
+ORD-10250,2024-10-13,2024-10-17,Second Class,CUST-1134,Jai Randhawa,Corporate,North,Delhi,Office Supplies,Labels,9,1678.14,0.1,433.03
+ORD-10741,2022-12-28,2022-12-31,Standard Class,CUST-1106,Vinaya Dhingra,Corporate,East,Patna,Technology,Copiers,3,1064.94,0.0,126.63
+ORD-10870,2024-12-22,2024-12-25,Same Day,CUST-1008,Ranbir Mann,Consumer,East,Bhubaneswar,Technology,Copiers,7,172.69,0.0,45.6
+ORD-10447,2022-05-16,2022-05-18,Same Day,CUST-1069,Alexander Sarkar,Consumer,West,Pune,Furniture,Tables,8,3479.12,0.1,656.11
+ORD-10208,2022-10-12,2022-10-15,Same Day,CUST-1133,Vivaan Shere,Corporate,South,Bengaluru,Technology,Copiers,5,707.6,0.0,-50.61
+ORD-10241,2022-11-07,2022-11-11,Standard Class,CUST-1166,Triya Khurana,Consumer,South,Bengaluru,Office Supplies,Storage,10,3464.2,0.3,-5.43
+ORD-10189,2023-01-21,2023-01-28,Second Class,CUST-1068,Kala Thaker,Corporate,West,Mumbai,Technology,Phones,10,3649.1,0.15,-7.27
+ORD-10082,2023-08-13,2023-08-19,First Class,CUST-1065,Warda Vora,Home Office,West,Surat,Office Supplies,Binders,9,786.69,0.1,230.36
+ORD-10314,2024-12-01,2024-12-04,Standard Class,CUST-1175,Vasatika Hegde,Home Office,North,Delhi,Office Supplies,Art,10,3067.6,0.0,271.4
+ORD-10308,2024-05-29,2024-06-02,Second Class,CUST-1040,Chaitanya Srinivasan,Home Office,West,Surat,Furniture,Tables,7,3381.07,0.1,-297.9
+ORD-10176,2022-06-17,2022-06-22,Standard Class,CUST-1179,Krish Yadav,Consumer,West,Pune,Technology,Accessories,8,2150.4,0.0,-139.46
+ORD-10205,2022-11-12,2022-11-18,First Class,CUST-1018,Victor Dube,Corporate,North,Jaipur,Office Supplies,Paper,7,1156.19,0.0,-68.0
+ORD-10151,2024-09-18,2024-09-22,First Class,CUST-1176,Devika Contractor,Home Office,North,Jaipur,Furniture,Furnishings,4,706.76,0.0,28.74
+ORD-10951,2023-10-07,2023-10-13,Same Day,CUST-1084,Teerth Halder,Corporate,South,Coimbatore,Office Supplies,Paper,2,699.22,0.1,144.59
+ORD-10000,2023-04-03,2023-04-05,Same Day,CUST-1163,Tamanna Mangal,Consumer,North,Chandigarh,Furniture,Bookcases,2,683.16,0.15,-35.35
+ORD-10169,2022-12-25,2022-12-29,Same Day,CUST-1073,Gayathri Palla,Corporate,North,Delhi,Furniture,Tables,3,1402.86,0.0,489.22
+ORD-10405,2022-08-15,2022-08-21,Same Day,CUST-1048,Vedant Peri,Consumer,North,Lucknow,Furniture,Tables,8,2501.52,0.0,538.36
+ORD-10469,2024-12-08,2024-12-11,Second Class,CUST-1128,Aarini Bala,Consumer,South,Coimbatore,Furniture,Bookcases,6,481.26,0.3,-18.79
+ORD-10354,2023-08-07,2023-08-12,First Class,CUST-1091,Tanmayi Amble,Home Office,South,Chennai,Technology,Accessories,2,902.12,0.0,107.03
+ORD-10820,2024-05-18,2024-05-22,Second Class,CUST-1046,Nathaniel Chakraborty,Corporate,West,Surat,Office Supplies,Storage,7,2133.95,0.2,85.46
+ORD-10144,2022-11-19,2022-11-25,Second Class,CUST-1088,Ekanta Walla,Consumer,North,Lucknow,Technology,Machines,3,1196.73,0.15,0.92
+ORD-10784,2023-08-18,2023-08-21,Same Day,CUST-1095,Januja Bora,Consumer,North,Delhi,Office Supplies,Paper,8,1230.72,0.0,-121.83
+ORD-10811,2024-04-04,2024-04-05,Standard Class,CUST-1036,Gaurang Dave,Corporate,North,Jaipur,Office Supplies,Paper,9,695.43,0.3,128.32
+ORD-10316,2023-03-02,2023-03-08,Standard Class,CUST-1104,Vanya Goyal,Consumer,East,Guwahati,Furniture,Chairs,8,1376.0,0.0,-129.71
+ORD-10974,2024-02-16,2024-02-17,Standard Class,CUST-1156,Hemangini Tandon,Home Office,East,Kolkata,Furniture,Chairs,6,2741.94,0.3,469.68
+ORD-10055,2022-06-25,2022-06-27,Same Day,CUST-1179,Krish Yadav,Home Office,East,Patna,Technology,Phones,7,1745.8,0.3,9.95
+ORD-10341,2022-11-14,2022-11-15,First Class,CUST-1041,Idika Kumer,Corporate,East,Guwahati,Furniture,Bookcases,3,1395.09,0.15,-91.45
+ORD-10679,2024-07-03,2024-07-08,Same Day,CUST-1060,Jonathan Dugar,Corporate,North,Delhi,Technology,Copiers,2,103.82,0.0,32.45
+ORD-10133,2024-01-02,2024-01-09,Standard Class,CUST-1011,Laksh Gera,Home Office,West,Mumbai,Office Supplies,Storage,2,357.9,0.2,56.03
+ORD-10142,2023-06-21,2023-06-28,First Class,CUST-1047,Nihal Warrior,Home Office,West,Mumbai,Technology,Copiers,5,1774.9,0.0,618.31
+ORD-10769,2024-11-02,2024-11-05,Standard Class,CUST-1143,Raagini Mall,Consumer,East,Kolkata,Furniture,Chairs,6,2900.88,0.0,262.16
+ORD-10581,2022-12-08,2022-12-13,Standard Class,CUST-1176,Devika Contractor,Home Office,South,Hyderabad,Office Supplies,Art,5,940.15,0.1,-7.79
+ORD-10203,2024-03-23,2024-03-30,Same Day,CUST-1025,Falguni Bajaj,Corporate,West,Ahmedabad,Furniture,Chairs,6,147.12,0.0,37.16
+ORD-10536,2023-07-22,2023-07-23,Standard Class,CUST-1057,Janaki Kuruvilla,Corporate,East,Guwahati,Office Supplies,Storage,2,385.36,0.1,41.2
+ORD-10714,2023-12-05,2023-12-11,First Class,CUST-1006,Benjamin Narayanan,Consumer,North,Jaipur,Technology,Copiers,7,3005.31,0.1,-224.5
+ORD-10611,2024-09-20,2024-09-24,Standard Class,CUST-1029,Banjeet Krishna,Corporate,West,Ahmedabad,Furniture,Furnishings,8,520.96,0.2,120.9
+ORD-10901,2023-02-07,2023-02-11,Same Day,CUST-1072,Ganga Kalla,Corporate,South,Bengaluru,Furniture,Bookcases,10,4599.5,0.0,-6.96
+ORD-10170,2022-08-08,2022-08-11,Same Day,CUST-1047,Nihal Warrior,Consumer,East,Bhubaneswar,Furniture,Chairs,5,1163.15,0.2,134.45
+ORD-10524,2023-04-12,2023-04-13,Second Class,CUST-1050,Tanmayi Saha,Consumer,East,Bhubaneswar,Furniture,Chairs,4,1486.0,0.3,-10.42
+ORD-10167,2023-05-12,2023-05-13,Same Day,CUST-1178,Ishaan Shukla,Corporate,East,Patna,Furniture,Chairs,9,1085.22,0.0,-82.89
+ORD-10029,2024-01-03,2024-01-05,Same Day,CUST-1032,,Home Office,North,Delhi,Office Supplies,Storage,4,1347.2,0.0,338.22
+ORD-10918,2022-08-04,2022-08-06,Standard Class,CUST-1173,Laksh Bandi,Home Office,West,Pune,Office Supplies,Paper,7,2662.45,0.1,754.97
+ORD-10902,2023-06-20,2023-06-23,First Class,CUST-1063,Gautami Walla,Home Office,West,Mumbai,Office Supplies,Art,10,1622.6,0.15,132.57
+ORD-10591,2024-10-13,2024-10-14,First Class,CUST-1035,Michael Vig,Home Office,South,Hyderabad,Furniture,Chairs,4,1215.64,0.3,223.81
+ORD-10975,2022-11-18,2022-11-25,Second Class,CUST-1012,Aachal Dhawan,Corporate,South,Bengaluru,Office Supplies,Labels,9,1834.29,0.2,4.7
+ORD-10792,2023-08-01,2023-08-05,Second Class,CUST-1152,Tanvi Patel,Consumer,North,Lucknow,Office Supplies,Art,2,765.68,0.0,136.23
+ORD-10436,2022-10-17,2022-10-23,First Class,CUST-1137,Meera Kala,Consumer,South,Coimbatore,Furniture,Bookcases,1,194.54,0.2,21.33
+ORD-10938,2023-03-20,2023-03-27,Same Day,CUST-1138,Harita Mani,Home Office,East,Bhubaneswar,Furniture,Bookcases,1,177.06,0.3,22.27
+ORD-10110,2024-06-12,2024-06-13,Same Day,CUST-1143,Raagini Mall,Home Office,East,Kolkata,Furniture,Furnishings,8,3690.96,0.3,105.61
+ORD-10519,2023-01-04,2023-01-10,First Class,CUST-1115,Falak Chander,Corporate,West,Mumbai,Furniture,Tables,8,2479.2,0.0,451.8
+ORD-10781,2022-01-22,2022-01-26,Standard Class,CUST-1042,Baljiwan Sundaram,Corporate,North,Jaipur,Furniture,Bookcases,9,4202.1,0.0,486.79
+ORD-10239,2022-09-04,2022-09-11,Same Day,CUST-1174,Triya Nayar,Consumer,West,Ahmedabad,Furniture,Chairs,7,2450.56,0.1,-150.25
+ORD-10041,2024-08-30,2024-09-03,Same Day,CUST-1156,Hemangini Tandon,Home Office,West,Pune,Technology,Copiers,5,1891.85,0.3,247.57
+ORD-10307,2022-12-29,2023-01-01,Second Class,CUST-1080,Saumya Samra,Home Office,South,Hyderabad,Furniture,Furnishings,1,12.31,0.0,-0.07
+ORD-10410,2024-12-02,2024-12-03,Standard Class,CUST-1099,Arunima Chaudhuri,Home Office,East,Kolkata,Office Supplies,Paper,5,1229.0,0.0,-13.0
+ORD-10694,2024-11-07,2024-11-11,First Class,CUST-1020,Varsha Bansal,Home Office,West,Pune,Technology,Phones,9,1740.51,0.15,161.14
+ORD-10494,2022-08-17,2022-08-22,Same Day,CUST-1157,Riya Gara,Corporate,East,Kolkata,Office Supplies,Storage,3,1367.88,0.2,-35.01
+ORD-10345,2024-09-23,2024-09-24,Standard Class,CUST-1138,Harita Mani,Consumer,East,Guwahati,Furniture,Bookcases,5,2250.8,0.0,99.35
+ORD-10615,2023-03-09,2023-03-16,Standard Class,CUST-1011,Laksh Gera,Home Office,West,Pune,Office Supplies,Labels,1,402.76,0.0,18.3
+ORD-10382,2022-05-19,2022-05-23,Same Day,CUST-1117,Deepa Doctor,Corporate,North,Lucknow,Office Supplies,Binders,4,1366.76,0.0,355.46
+ORD-10740,2022-12-11,2022-12-18,Same Day,CUST-1053,Jairaj Bhardwaj,Home Office,West,Mumbai,Technology,Machines,8,86.16,0.0,21.38
+ORD-10258,2023-08-21,2023-08-24,First Class,CUST-1151,Yashodhara Mand,Corporate,North,Chandigarh,Office Supplies,Paper,6,2782.56,0.1,539.24
+ORD-10249,2023-07-05,2023-07-11,Same Day,CUST-1132,Balendra Choudhary,Corporate,East,Patna,Furniture,Bookcases,2,776.0,0.0,39.39
+ORD-10998,2024-06-24,2024-06-27,Standard Class,CUST-1095,Januja Bora,Corporate,South,Bengaluru,Technology,Phones,9,949.5,0.15,32.02
+ORD-10484,2023-08-26,2023-08-27,First Class,CUST-1149,,Consumer,North,Chandigarh,Technology,Copiers,6,2709.18,0.0,-269.89
+ORD-10408,2023-06-30,2023-07-07,First Class,CUST-1008,Ranbir Mann,Corporate,East,Kolkata,Furniture,Tables,7,314.86,0.1,-5.18
+ORD-10748,2024-01-08,2024-01-15,Same Day,CUST-1048,Vedant Peri,Consumer,North,Delhi,Technology,Machines,1,485.1,0.2,18.04
+ORD-10445,2023-04-18,2023-04-24,Second Class,CUST-1156,Hemangini Tandon,Home Office,East,Patna,Technology,Accessories,1,186.04,0.2,37.35
+ORD-10711,2024-04-30,2024-05-02,Same Day,CUST-1179,Krish Yadav,Home Office,East,Patna,Office Supplies,Labels,3,1352.94,0.2,102.21
+ORD-10589,2022-03-01,2022-03-04,Standard Class,CUST-1009,Omya Sharma,Home Office,South,Bengaluru,Furniture,Bookcases,5,1663.75,0.0,316.0
+ORD-10607,2022-12-14,2022-12-19,First Class,CUST-1143,Raagini Mall,Home Office,North,Lucknow,Technology,Accessories,8,3726.88,0.1,-136.3
+ORD-10467,2023-10-07,2023-10-13,Second Class,CUST-1155,Sudiksha Roy,Corporate,West,Ahmedabad,Furniture,Chairs,1,143.03,0.0,17.69
+ORD-10631,2023-01-29,2023-02-02,First Class,CUST-1178,Ishaan Shukla,Home Office,West,Ahmedabad,Furniture,Tables,6,1348.02,0.15,-1.3
+ORD-10828,2023-03-10,2023-03-14,Standard Class,CUST-1040,Chaitanya Srinivasan,Home Office,East,Patna,Furniture,Furnishings,10,374.4,0.1,-5.84
+ORD-10449,2024-11-28,2024-12-03,Standard Class,CUST-1027,Jyoti Solanki,Consumer,West,Pune,Office Supplies,Binders,7,3444.56,0.0,520.01
+ORD-10022,2024-04-06,2024-04-07,Standard Class,CUST-1020,Varsha Bansal,Corporate,South,Bengaluru,Furniture,Chairs,10,1306.5,0.15,-91.19
+ORD-10770,2022-10-14,2022-10-19,First Class,CUST-1076,Triveni Naidu,Home Office,North,Jaipur,Technology,Machines,8,2804.8,0.15,738.71
+ORD-10960,2022-07-23,2022-07-26,Same Day,CUST-1053,Jairaj Bhardwaj,Consumer,West,Ahmedabad,Technology,Machines,5,455.7,0.0,10.59
+ORD-10559,2022-08-27,2022-09-03,First Class,CUST-1157,Riya Gara,Consumer,North,Delhi,Office Supplies,Art,3,1387.41,0.1,70.79
+ORD-10957,2023-08-16,2023-08-23,Standard Class,CUST-1090,Baghyawati Joshi,Consumer,West,Surat,Office Supplies,Art,8,2824.48,0.2,-39.42
+ORD-10166,2023-12-11,2023-12-15,First Class,CUST-1037,Patrick Shanker,Home Office,East,Kolkata,Furniture,Bookcases,5,1881.0,0.0,-17.06
+ORD-10313,2024-06-28,2024-07-02,Second Class,CUST-1027,Jyoti Solanki,Home Office,North,Jaipur,Furniture,Chairs,2,556.34,0.1,108.07
+ORD-10366,2022-04-25,2022-04-27,Standard Class,CUST-1146,Imaran Barad,Home Office,South,Bengaluru,Furniture,Chairs,5,2310.0,0.15,650.33
+ORD-10191,2023-06-20,2023-06-23,Same Day,CUST-1097,Manya Trivedi,Corporate,West,Ahmedabad,Technology,Machines,9,3983.22,0.1,-199.41
+ORD-10102,2023-12-26,2024-01-02,First Class,CUST-1143,Raagini Mall,Home Office,East,Guwahati,Technology,Phones,7,3047.59,0.2,-187.36
+ORD-10924,2022-05-20,2022-05-27,Second Class,CUST-1057,Janaki Kuruvilla,Home Office,East,Bhubaneswar,Office Supplies,Art,3,1453.14,0.0,204.15
+ORD-10663,2022-05-15,2022-05-19,Standard Class,CUST-1068,,Corporate,North,Jaipur,Office Supplies,Art,1,209.67,0.0,65.25
+ORD-10344,2022-03-23,2022-03-29,Same Day,CUST-1171,Yasti Khalsa,Corporate,East,Patna,Office Supplies,Paper,6,1181.22,0.3,268.93
+ORD-10342,2023-01-12,2023-01-17,Same Day,CUST-1146,Imaran Barad,Consumer,East,Patna,Furniture,Bookcases,2,790.54,0.0,68.91
+ORD-10959,2023-08-08,2023-08-11,Standard Class,CUST-1076,Triveni Naidu,Home Office,West,Surat,Office Supplies,Binders,7,1162.7,0.0,382.62
+ORD-10431,2022-06-24,2022-06-28,Second Class,CUST-1146,Imaran Barad,Corporate,North,Lucknow,Technology,Copiers,9,2006.1,0.2,-66.33
+ORD-10162,2024-10-24,2024-10-31,Standard Class,CUST-1107,Rayaan Patel,Home Office,South,Coimbatore,Office Supplies,Paper,10,4610.6,0.3,909.39
+ORD-10008,2022-07-06,2022-07-13,Same Day,CUST-1102,Meera Purohit,Home Office,East,Guwahati,Furniture,Tables,1,431.94,0.0,78.76
+ORD-10949,2023-03-17,2023-03-21,Standard Class,CUST-1155,,Consumer,South,Hyderabad,Office Supplies,Labels,10,259.7,0.2,-6.75
+ORD-10890,2023-08-13,2023-08-19,Same Day,CUST-1052,Nilima Buch,Home Office,South,Hyderabad,Furniture,Bookcases,1,56.18,0.15,14.73
+ORD-10367,2024-08-23,2024-08-30,Second Class,CUST-1169,Oviya Arora,Home Office,East,Guwahati,Furniture,Tables,8,748.64,0.3,44.46
+ORD-10644,2023-11-17,2023-11-21,Standard Class,CUST-1103,Isaiah Chawla,Home Office,South,Chennai,Office Supplies,Binders,3,795.09,0.15,18.77
+ORD-10107,2024-04-28,2024-05-01,Standard Class,CUST-1113,Tristan Lad,Corporate,West,Surat,Office Supplies,Labels,4,1519.68,0.0,84.08
+ORD-10718,2022-04-18,2022-04-23,Second Class,CUST-1133,Vivaan Shere,Corporate,North,Jaipur,Office Supplies,Storage,1,33.85,0.1,7.47
+ORD-10955,2022-12-08,2022-12-09,Same Day,CUST-1025,Falguni Bajaj,Corporate,South,Chennai,Furniture,Furnishings,3,786.9,0.15,209.61
+ORD-10034,2022-01-04,2022-01-09,Second Class,CUST-1147,Qarin Sood,Corporate,South,Coimbatore,Office Supplies,Binders,9,3119.04,0.2,578.06
+ORD-10922,2024-10-22,2024-10-25,Standard Class,CUST-1047,Nihal Warrior,Corporate,West,Surat,Furniture,Tables,6,1878.3,0.15,453.49
+ORD-10602,2024-10-09,2024-10-10,First Class,CUST-1145,Amol Thaker,Corporate,North,Jaipur,Furniture,Furnishings,4,1438.6,0.0,468.59
+ORD-10962,2024-09-27,2024-10-04,Same Day,CUST-1153,Tara Vala,Home Office,North,Delhi,Technology,Accessories,1,191.07,0.0,61.87
+ORD-10386,2024-10-05,2024-10-10,First Class,CUST-1010,Charan Anand,Corporate,West,Ahmedabad,Office Supplies,Labels,5,1252.45,0.3,273.71
+ORD-10577,2022-02-27,2022-03-04,Standard Class,CUST-1173,Laksh Bandi,Home Office,East,Kolkata,Office Supplies,Storage,1,72.82,0.0,4.15
+ORD-10381,2024-06-25,2024-06-29,Same Day,CUST-1075,Thomas Joshi,Home Office,East,Bhubaneswar,Furniture,Bookcases,10,2469.8,0.0,594.88
+ORD-10330,2023-03-18,2023-03-22,Standard Class,CUST-1156,Hemangini Tandon,Home Office,South,Coimbatore,Furniture,Chairs,4,1444.92,0.0,347.82
+ORD-10600,2024-03-16,2024-03-20,Second Class,CUST-1050,Tanmayi Saha,Consumer,North,Chandigarh,Office Supplies,Storage,10,1200.0,0.0,378.48
+ORD-10968,2023-04-26,2023-05-02,First Class,CUST-1045,Avi Varkey,Consumer,North,Jaipur,Office Supplies,Storage,6,1483.62,0.2,391.02
+ORD-10486,2024-05-04,2024-05-06,Standard Class,CUST-1035,Michael Vig,Consumer,South,Hyderabad,Technology,Copiers,5,2493.75,0.2,-86.79
+ORD-10190,2024-09-07,2024-09-09,First Class,CUST-1077,Lavanya Sheth,Corporate,North,Delhi,Furniture,Tables,10,3548.5,0.1,995.8
+ORD-10674,2023-06-16,2023-06-21,Second Class,CUST-1150,Aarav Buch,Home Office,South,Bengaluru,Technology,Phones,4,1766.76,0.2,356.2
+ORD-10529,2022-04-01,2022-04-02,Same Day,CUST-1056,Owen Kala,Corporate,South,Coimbatore,Technology,Phones,8,2955.2,0.15,-213.19
+ORD-10118,2024-06-18,2024-06-23,First Class,CUST-1021,Qarin Rajan,Corporate,South,Coimbatore,Furniture,Tables,9,2779.2,0.0,188.38
+ORD-10944,2022-10-28,2022-11-04,Standard Class,CUST-1066,Girindra Bhavsar,Consumer,West,Pune,Furniture,Tables,10,3314.3,0.0,-160.74
+ORD-10032,2022-05-23,2022-05-30,First Class,CUST-1006,Benjamin Narayanan,Consumer,South,Hyderabad,Office Supplies,Storage,5,910.3,0.15,61.79
+ORD-10267,2024-09-19,2024-09-22,Standard Class,CUST-1139,Samaksh Minhas,Corporate,North,Jaipur,Office Supplies,Storage,10,2561.7,0.1,50.02
+ORD-10478,2022-08-08,2022-08-11,Same Day,CUST-1089,Ojasvi Shanker,Corporate,South,Coimbatore,Technology,Phones,9,2954.07,0.3,74.35
+ORD-10223,2022-08-30,2022-09-01,Same Day,CUST-1151,Yashodhara Mand,Corporate,North,Lucknow,Technology,Accessories,5,336.5,0.0,71.35
+ORD-10264,2022-04-14,2022-04-16,Standard Class,CUST-1023,Logan Dutta,Corporate,East,Guwahati,Furniture,Chairs,10,2222.5,0.2,138.24
+ORD-10992,2023-03-20,2023-03-23,Same Day,CUST-1143,Raagini Mall,Corporate,South,Chennai,Furniture,Tables,3,416.52,0.0,-17.9
+ORD-10791,2023-12-06,2023-12-11,First Class,CUST-1028,Quincy Munshi,Corporate,North,Chandigarh,Furniture,Tables,1,386.02,0.0,-29.56
+ORD-10525,2023-03-19,2023-03-24,Second Class,CUST-1120,Amruta Kala,Home Office,West,Pune,Furniture,Furnishings,8,778.0,0.0,-30.04
+ORD-10092,2023-04-29,2023-05-06,First Class,CUST-1176,Devika Contractor,Consumer,East,Guwahati,Furniture,Furnishings,6,352.08,0.2,18.39
+ORD-10275,2023-10-14,2023-10-21,Same Day,CUST-1146,Imaran Barad,Consumer,West,Pune,Technology,Phones,10,1182.4,0.15,-53.42
+ORD-10813,2022-10-13,2022-10-17,First Class,CUST-1138,Harita Mani,Corporate,East,Patna,Technology,Phones,10,4472.7,0.3,-83.23
+ORD-10760,2022-07-19,2022-07-21,Standard Class,CUST-1135,Yagnesh Balasubramanian,Home Office,East,Guwahati,Office Supplies,Paper,6,2271.66,0.15,559.26
+ORD-10564,2023-01-28,2023-01-31,Standard Class,CUST-1145,Amol Thaker,Consumer,North,Chandigarh,Furniture,Chairs,3,1355.43,0.15,-112.97
+ORD-10515,2023-11-22,2023-11-29,Second Class,CUST-1157,Riya Gara,Corporate,South,Coimbatore,Furniture,Tables,7,1182.16,0.2,150.55
+ORD-10716,2022-07-25,2022-07-27,Standard Class,CUST-1120,Amruta Kala,Home Office,East,Kolkata,Furniture,Tables,5,354.15,0.2,21.5
+ORD-10350,2022-11-17,2022-11-22,First Class,CUST-1112,Teerth Patil,Home Office,West,Surat,Office Supplies,Binders,4,307.32,0.1,71.51
+ORD-10212,2023-02-14,2023-02-19,Same Day,CUST-1096,Nirja Mukherjee,Home Office,East,Kolkata,Office Supplies,Storage,9,883.44,0.3,91.24
+ORD-10295,2023-02-12,2023-02-15,Standard Class,CUST-1063,Gautami Walla,Home Office,North,Lucknow,Office Supplies,Binders,6,2481.12,0.15,165.81
+ORD-10815,2024-02-29,2024-03-02,Same Day,CUST-1000,Abha Venkataraman,Home Office,South,Coimbatore,Furniture,Tables,6,1986.78,0.0,625.36
+ORD-10698,2024-10-15,2024-10-18,First Class,CUST-1115,Falak Chander,Home Office,West,Ahmedabad,Office Supplies,Art,5,986.8,0.0,97.46
+ORD-10830,2022-11-30,2022-12-05,First Class,CUST-1092,Gaurika Murthy,Consumer,East,Bhubaneswar,Furniture,Tables,2,84.02,0.15,-6.79
+ORD-10661,2022-02-25,2022-03-03,Same Day,CUST-1043,Tanay Khurana,Corporate,North,Chandigarh,Technology,Machines,1,156.03,0.0,6.87
+ORD-10355,2023-10-10,2023-10-14,Same Day,CUST-1168,Netra Lata,Corporate,East,Bhubaneswar,Technology,Accessories,3,37.11,0.0,9.41
+ORD-10444,2024-06-26,2024-07-02,Second Class,CUST-1007,Frado Wagle,Consumer,East,Bhubaneswar,Office Supplies,Art,5,422.3,0.0,-21.94
+ORD-10719,2022-02-27,2022-02-28,Second Class,CUST-1061,Tanveer Taneja,Consumer,South,Coimbatore,Furniture,Chairs,6,2472.36,0.2,397.61
+ORD-10215,2023-11-11,2023-11-18,Second Class,CUST-1063,Gautami Walla,Corporate,East,Guwahati,Furniture,Chairs,7,433.37,0.0,7.12
+ORD-10582,2024-04-03,2024-04-10,Standard Class,CUST-1054,Krishna Batra,Home Office,East,Bhubaneswar,Office Supplies,Binders,4,1264.16,0.0,281.87
+ORD-10550,2024-08-30,2024-09-06,Same Day,CUST-1150,Aarav Buch,Consumer,North,Lucknow,Furniture,Tables,9,4441.05,0.0,1420.78
+ORD-10159,2023-11-20,2023-11-25,Same Day,CUST-1156,Hemangini Tandon,Consumer,East,Bhubaneswar,Furniture,Furnishings,9,2437.65,0.2,298.98
+ORD-10394,2024-11-11,2024-11-15,Same Day,CUST-1147,Qarin Sood,Home Office,South,Hyderabad,Office Supplies,Storage,8,3567.36,0.1,565.55
+ORD-10599,2023-10-17,2023-10-21,First Class,CUST-1040,Chaitanya Srinivasan,Corporate,South,Coimbatore,Technology,Accessories,8,3504.16,0.0,60.64
+ORD-10972,2024-03-12,2024-03-19,First Class,CUST-1082,Bhavini Balay,Corporate,East,Guwahati,Technology,Machines,8,1746.8,0.0,542.5
+ORD-10037,2024-06-23,2024-06-27,Second Class,CUST-1053,Jairaj Bhardwaj,Home Office,West,Surat,Technology,Machines,4,1041.92,0.3,222.84
+ORD-10174,2022-08-31,2022-09-04,First Class,CUST-1167,Anirudh Parmar,Home Office,East,Kolkata,Technology,Accessories,5,441.3,0.2,44.53
+ORD-10851,2023-12-23,2023-12-30,Second Class,CUST-1127,Laban Sarkar,Corporate,West,Ahmedabad,Office Supplies,Art,9,1968.03,0.3,70.43
+ORD-10703,2022-10-12,2022-10-17,First Class,CUST-1112,Teerth Patil,Corporate,West,Ahmedabad,Technology,Phones,3,479.19,0.2,-36.67
+ORD-10646,2023-06-16,2023-06-22,Standard Class,CUST-1108,Jackson Balan,Corporate,North,Lucknow,Technology,Phones,9,1653.21,0.0,397.52
+ORD-10849,2023-03-24,2023-03-30,Same Day,CUST-1032,Azaan Kohli,Consumer,West,Mumbai,Technology,Phones,4,863.56,0.15,182.39
+ORD-10460,2024-05-24,2024-05-29,First Class,CUST-1146,Imaran Barad,Consumer,North,Lucknow,Office Supplies,Labels,6,823.38,0.15,243.39
+ORD-10535,2023-11-17,2023-11-19,Second Class,CUST-1165,Upasna Kumer,Home Office,North,Chandigarh,Technology,Accessories,9,590.76,0.1,123.26
+ORD-10657,2023-01-30,2023-02-04,Second Class,CUST-1161,Leela Sampath,Corporate,East,Kolkata,Technology,Phones,9,2633.94,0.0,871.26
+ORD-10790,2023-10-28,2023-11-04,Same Day,CUST-1107,Rayaan Patel,Consumer,West,Pune,Technology,Copiers,7,1791.37,0.2,400.38
+ORD-10357,2023-06-24,2023-06-30,Standard Class,CUST-1155,Sudiksha Roy,Home Office,North,Chandigarh,Office Supplies,Paper,2,732.88,0.0,206.9
+ORD-10372,2024-11-30,2024-12-01,Same Day,CUST-1048,Vedant Peri,Corporate,North,Delhi,Technology,Phones,7,2315.11,0.2,485.12
+ORD-10592,2022-08-07,2022-08-09,Standard Class,CUST-1099,Arunima Chaudhuri,Corporate,South,Bengaluru,Office Supplies,Paper,4,1941.04,0.1,146.34
+ORD-10363,2023-12-08,2023-12-12,Second Class,CUST-1064,Aishani Sharma,Corporate,West,Ahmedabad,Furniture,Furnishings,8,3557.68,0.0,447.65
+ORD-10501,2023-03-26,2023-04-01,Standard Class,CUST-1025,Falguni Bajaj,Consumer,North,Lucknow,Technology,Copiers,5,667.15,0.0,-59.6
